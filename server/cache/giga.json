@@ -1,0 +1,14 @@
+{
+  "banana prata": {
+    "products": [
+      {
+        "name": "Banana Prata",
+        "brand": "Giga",
+        "link": "https://www.giga.com.vc/banana-prata-134516/p",
+        "imageUrl": "https://gigavc.vteximg.com.br/arquivos/ids/167892/69075b11eee7da45c21bf708.jpg?v=638978015148530000",
+        "imageId": "167892"
+      }
+    ],
+    "searchUrl": "https://www.giga.com.vc/banana%20prata?_q=banana%20prata&map=ft"
+  }
+}
