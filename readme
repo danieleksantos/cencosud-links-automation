@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0544bd1e-44d7-415d-8178-321bd48e6197" alt="Cencosud Links Logo" width="100"/>
+  <img src="https://github.com/user-attachments/assets/49e22bec-e330-4ede-a70d-e45abc395f59" alt="Cencosud Links Logo" width="100"/>
 
   # Cencosud Links - Content and Campaign Builder
 
@@ -108,3 +108,16 @@ Este projeto foi desenvolvido aplicando fundamentos sólidos de engenharia de so
 - **Componentização:** Header, Cards de produto e Tipagens estão isolados. Isso permite que uma alteração visual no card não afete a lógica de busca do App.
 - **Strict Typing:** Uso de TypeScript 100% tipado, garantindo que erros de dados sejam capturados no desenvolvimento, não em produção.
 - **Resiliência:** Sistema inteligente de tratamento de erros que traduz falhas técnicas (como backend offline) em mensagens claras para o usuário final.
+
+## Credenciais de Acesso (Segurança)
+<p>A aplicação exige uma chave de acesso para comunicar o Frontend com o Backend de forma segura.</p>
+
+## Preview
+<p align="center"> 
+<img src="https://github.com/user-attachments/assets/704d613e-052d-485b-9455-1b531488c638" alt="Desktop Preview" width="300" /></p>
+
+<br>
+<br>
+<div align="center">
+<p>Desenvolvido por <strong>Daniele K. Santos</strong></p>
+</div>

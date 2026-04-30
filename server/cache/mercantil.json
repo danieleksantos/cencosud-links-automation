@@ -1,0 +1,14 @@
+{
+  "banana prata": {
+    "products": [
+      {
+        "name": "Banana Prata",
+        "brand": "Sem Marca",
+        "link": "https://www.mercantilatacado.com.br/banana-prata-1111863/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/170261/654a316375d9096810e2c178.jpg?v=638349579277070000",
+        "imageId": "170261"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/banana%20prata?_q=banana%20prata&map=ft"
+  }
+}

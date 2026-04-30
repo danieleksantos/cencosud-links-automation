@@ -111,5 +111,227 @@
       }
     ],
     "searchUrl": "https://www.prezunic.com.br/ovos%20brancos%2020?_q=ovos%20brancos%2020&map=ft"
+  },
+  "café em pó pilão": {
+    "products": [
+      {
+        "name": "Café em Pó Pilão Tradicional a Vácuo 250g",
+        "brand": "Pilao",
+        "link": "https://www.prezunic.com.br/cafe-em-po-pilao-tradicional-a-vacuo-250g/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/187478/656790741ef3739680763024.jpg?v=638368828085170000",
+        "imageId": "187478"
+      },
+      {
+        "name": "Café em Pó Pilão Tradicional Torrado e Moído Almofada 500g",
+        "brand": "Pilao",
+        "link": "https://www.prezunic.com.br/cafe-em-po-pilao-tradicional-torrado-e-moido-almofada-500g/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/180664/65678a6e1ef3739680761550.jpg?v=638368812658230000",
+        "imageId": "180664"
+      },
+      {
+        "name": "Café em Pó Pilão Torrado e Moído 252 Graus 500g",
+        "brand": "Pilao",
+        "link": "https://www.prezunic.com.br/cafe-em-po-pilao-torrado-e-moido-252-graus-500g/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/184285/65678d8f1ef3739680762355.jpg?v=638368820668500000",
+        "imageId": "184285"
+      },
+      {
+        "name": "Café em Pó Pilão Tradicional Torrado e Moído Almofada 250g",
+        "brand": "Pilao",
+        "link": "https://www.prezunic.com.br/cafe-em-po-pilao-tradicional-torrado-e-moido-almofada-250g/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/179519/656789601ef373968076109d.jpg?v=638368809965270000",
+        "imageId": "179519"
+      },
+      {
+        "name": "Café em Pó Pilão Torrado e Moído Extraforte Pacote 500g",
+        "brand": "Pilao",
+        "link": "https://www.prezunic.com.br/cafe-em-po-pilao-torrado-e-moido-extraforte-pacote-500g/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/181961/65678b8f1ef3739680761a66.jpg?v=638368815543630000",
+        "imageId": "181961"
+      }
+    ],
+    "searchUrl": "https://www.prezunic.com.br/Caf%C3%A9%20em%20P%C3%B3%20Pil%C3%A3o?_q=Caf%C3%A9%20em%20P%C3%B3%20Pil%C3%A3o&map=ft"
+  },
+  "cerveja antarctica subzero latão 473ml": {
+    "products": [
+      {
+        "name": "Cerveja Antarctica Pilsen Subzero Latão 473ml",
+        "brand": "Antarctica",
+        "link": "https://www.prezunic.com.br/cerveja-antarctica-pilsen-subzero-latao-473ml/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/175480/6500acb59cc50a6d1faa8f27.jpg?v=638301398295330000",
+        "imageId": "175480"
+      },
+      {
+        "name": "Cerveja Antarctica Pilsen Lata 473ml",
+        "brand": "Antarctica",
+        "link": "https://www.prezunic.com.br/cerveja-antarctica-pilsen-lata-473ml/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/176132/650888bc1a51d1d5711c0457.jpg?v=638306549092300000",
+        "imageId": "176132"
+      },
+      {
+        "name": "Cerveja Antarctica Pilsen Lata 473ml com 12 Unid",
+        "brand": "Antarctica",
+        "link": "https://www.prezunic.com.br/cerveja-antarctica-pilsen-lata-473ml-com-12-unid/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/215217/683a56fc97043d024870f0a9.jpg?v=638842506214170000",
+        "imageId": "215217"
+      }
+    ],
+    "searchUrl": "https://www.prezunic.com.br/Cerveja%20Antarctica%20Subzero%20Lat%C3%A3o%20473ml?_q=Cerveja%20Antarctica%20Subzero%20Lat%C3%A3o%20473ml&map=ft"
+  },
+  "alho a  granel": {
+    "products": [
+      {
+        "name": "Alho Roxo a Granel",
+        "brand": "Sem Marca",
+        "link": "https://www.prezunic.com.br/alho-roxo-a-granel/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/215953/688bbd61c51acd09012d3a38.jpg?v=638895852559270000",
+        "imageId": "215953"
+      }
+    ],
+    "searchUrl": "https://www.prezunic.com.br/Alho%20a%20%20granel?_q=Alho%20a%20%20granel&map=ft"
+  },
+  "alho a granel": {
+    "products": [
+      {
+        "name": "Alho Roxo a Granel",
+        "brand": "Sem Marca",
+        "link": "https://www.prezunic.com.br/alho-roxo-a-granel/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/215953/688bbd61c51acd09012d3a38.jpg?v=638895852559270000",
+        "imageId": "215953"
+      }
+    ],
+    "searchUrl": "https://www.prezunic.com.br/Alho%20a%20granel?_q=Alho%20a%20granel&map=ft"
+  },
+  "alho": {
+    "products": [
+      {
+        "name": "Alho Redinha 200g",
+        "brand": "Sem Marca",
+        "link": "https://www.prezunic.com.br/alho-redinha-200g/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/179786/6567899e1ef37396807611dd.jpg?v=638368810596200000",
+        "imageId": "179786"
+      },
+      {
+        "name": "Alho Soberano Descascado 500g",
+        "brand": "Soberano",
+        "link": "https://www.prezunic.com.br/alho-soberano-descascado-500g/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/176689/6511db5cd90ea1aeb1f8f336.jpg?v=638312658852070000",
+        "imageId": "176689"
+      },
+      {
+        "name": "Alho Poró Prezunic Unid",
+        "brand": "Prezunic",
+        "link": "https://www.prezunic.com.br/alho-poro-prezunic-unid/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/184936/65678e201ef37396807625ff.jpg?v=638368822109830000",
+        "imageId": "184936"
+      },
+      {
+        "name": "Alho Kitano Granulado 60g",
+        "brand": "Kitano",
+        "link": "https://www.prezunic.com.br/alho-kitano-granulado-60g/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/179204/656789221ef3739680760f8d.jpg?v=638368809343300000",
+        "imageId": "179204"
+      },
+      {
+        "name": "Alho em Pasta Prezunic 200g",
+        "brand": "Prezunic",
+        "link": "https://www.prezunic.com.br/alho-em-pasta-prezunic-200g/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/182017/65678ba31ef3739680761aa4.jpg?v=638368815749500000",
+        "imageId": "182017"
+      }
+    ],
+    "searchUrl": "https://www.prezunic.com.br/Alho?_q=Alho&map=ft"
+  },
+  "cabeça de alho": {
+    "products": [
+      {
+        "name": "Cabeça de Alho",
+        "brand": "Sem Marca",
+        "link": "https://www.prezunic.com.br/cabeca-de-alho/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/169846/648c4d7a9745566035fa4358.jpg?v=638225132780670000",
+        "imageId": "169846"
+      }
+    ],
+    "searchUrl": "https://www.prezunic.com.br/cabe%C3%A7a%20de%20alho?_q=cabe%C3%A7a%20de%20alho&map=ft"
+  },
+  "frango seara": {
+    "products": [
+      {
+        "name": "Coxa de Frango Seara 1Kg",
+        "brand": "Seara",
+        "link": "https://www.prezunic.com.br/coxa-de-frango-seara-1kg/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/213230/67dd7ae70e7abc2fe3a20625.jpg?v=638781649744300000",
+        "imageId": "213230"
+      },
+      {
+        "name": "Coxa de Frango Seara IQF 1Kg",
+        "brand": "Seara",
+        "link": "https://www.prezunic.com.br/coxa-de-frango-seara-iqf-1kg/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/231879/69e13ac007dd4e988e33680b.jpg?v=639119651241730000",
+        "imageId": "231879"
+      },
+      {
+        "name": "Asa de Frango Seara a Granel Resfriada",
+        "brand": "Seara",
+        "link": "https://www.prezunic.com.br/asa-de-frango-seara-a-granel-resfriada-1752635/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/220768/69029b530fefd2653feabbf0.jpg?v=638973753185670000",
+        "imageId": "220768"
+      },
+      {
+        "name": "Finesse de Frango Seara Fatiado",
+        "brand": "Seara",
+        "link": "https://www.prezunic.com.br/finesse-de-frango-seara-fatiado/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/180250/65678a1b1ef37396807613be.jpg?v=638368811831700000",
+        "imageId": "180250"
+      },
+      {
+        "name": "Moela de Frango Seara a Granel Resfriada",
+        "brand": "Seara",
+        "link": "https://www.prezunic.com.br/moela-de-frango-seara-a-granel-resfriada/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/220798/69029b610fefd2653feabbf7.jpg?v=638973753316330000",
+        "imageId": "220798"
+      }
+    ],
+    "searchUrl": "https://www.prezunic.com.br/frango%20Seara?_q=frango%20Seara&map=ft"
+  },
+  "file frango seara": {
+    "products": [
+      {
+        "name": "Coxa de Frango Seara 1Kg",
+        "brand": "Seara",
+        "link": "https://www.prezunic.com.br/coxa-de-frango-seara-1kg/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/213230/67dd7ae70e7abc2fe3a20625.jpg?v=638781649744300000",
+        "imageId": "213230"
+      },
+      {
+        "name": "Finesse de Frango Seara Fatiado",
+        "brand": "Seara",
+        "link": "https://www.prezunic.com.br/finesse-de-frango-seara-fatiado/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/180250/65678a1b1ef37396807613be.jpg?v=638368811831700000",
+        "imageId": "180250"
+      },
+      {
+        "name": "Filé de Peito de Frango Seara a Granel Resfriado",
+        "brand": "Seara",
+        "link": "https://www.prezunic.com.br/file-de-peito-de-frango-seara-a-granel-resfriado-1752638/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/222053/692dbdbcc3a3c7550cfdb180.jpg?v=639002021749030000",
+        "imageId": "222053"
+      },
+      {
+        "name": "Filé de Peito de Frango Seara Iqf Congelado 1Kg",
+        "brand": "Seara",
+        "link": "https://www.prezunic.com.br/file-de-peito-de-frango-seara-iqf-congelado-1kg/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/181907/65678b7a1ef37396807619dd.jpg?v=638368815338300000",
+        "imageId": "181907"
+      },
+      {
+        "name": "Filé de Peito de Frango Seara Bandeja Congelado 1Kg",
+        "brand": "Seara",
+        "link": "https://www.prezunic.com.br/file-de-peito-de-frango-seara-bandeja-congelado-1kg/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/213350/67dd7afc0e7abc2fe3a20668.jpg?v=638781649924930000",
+        "imageId": "213350"
+      }
+    ],
+    "searchUrl": "https://www.prezunic.com.br/file%20frango%20Seara?_q=file%20frango%20Seara&map=ft"
   }
 }
