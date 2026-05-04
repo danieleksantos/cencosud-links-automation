@@ -25,7 +25,7 @@ const ProductCard: React.FC<ProductCardProps> = ({
       {bannerLogo && (
         <img
           src={bannerLogo}
-          className="absolute top-5 right-6 h-8 pointer-events-none opacity-20 grayscale"
+          className="absolute top-5 right-6 h-8 pointer-events-none opacity-70"
           alt="Banner"
         />
       )}
