@@ -30,7 +30,7 @@ O projeto está configurado para ambiente interno e pode ser testado nos links l
 
 ## Sobre o Projeto
 
-O Cencosud Links é uma ferramenta robusta para aceleração de campanhas de e-mail marketing, focada em precisão de dados e performance.
+O Cencosud Links é uma ferramenta para aceleração de desenvolvimento de e-mails em campanhas de e-mail marketing, focada em precisão de dados e performance.
 
 - **Experiência Multi-Bandeira:** Busca unificada em 5 redes (Mercantil, Prezunic, Giga, GBarbosa e Bretas).
 - **Extração de ImageID:** Recuperação automática do ID oficial de imagem da VTEX para montagem de templates HTML.
