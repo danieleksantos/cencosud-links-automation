@@ -114,7 +114,7 @@ Este projeto foi desenvolvido aplicando fundamentos sólidos de engenharia de so
 
 ## Preview
 <p align="center"> 
-<img src="https://github.com/user-attachments/assets/704d613e-052d-485b-9455-1b531488c638" alt="Desktop Preview" width="300" /></p>
+<img src="https://github.com/user-attachments/assets/704d613e-052d-485b-9455-1b531488c638" alt="Desktop Preview" width="800" /></p>
 
 <br>
 <br>
