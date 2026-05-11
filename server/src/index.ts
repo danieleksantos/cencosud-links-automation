@@ -102,7 +102,7 @@ app.get('/status', (req, res) => {
 
 app.listen(PORT, () => {
   console.log(`
-  🚀 Servidor Profissional Online!
+  🚀 Servidor Online!
   📡 Porta: ${PORT}
   🛡️  Segurança: Helmet & API Key Ativos
   `);

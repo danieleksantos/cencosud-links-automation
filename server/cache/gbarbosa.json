@@ -38,5 +38,667 @@
       }
     ],
     "searchUrl": "https://www.gbarbosa.com.br/Coxa%20de%20Frango%20Sadia%20Congelada%E2%80%A81Kg?_q=Coxa%20de%20Frango%20Sadia%20Congelada%E2%80%A81Kg&map=ft"
+  },
+  "coxão mole bovino resfriado": {
+    "products": [
+      {
+        "name": "Coxão Mole Bovino Resfriado Pedaço",
+        "brand": "Feito Por Nos",
+        "link": "https://www.gbarbosa.com.br/coxao-mole-bovino-resfriado-pedaco/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/209616/655264f28d0743e14888e4bc.jpg?v=638354954137630000",
+        "imageId": "209616"
+      },
+      {
+        "name": "Coxão Mole Bovino Friboi Resfriado Pedaço",
+        "brand": "Friboi",
+        "link": "https://www.gbarbosa.com.br/coxao-mole-bovino-friboi-resfriado-pedaco/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/210181/6552656e8d0743e14888e6ec.jpg?v=638354955375700000",
+        "imageId": "210181"
+      },
+      {
+        "name": "Coxão Mole Bovino Pedaço Resfriado",
+        "brand": "Sem Marca",
+        "link": "https://www.gbarbosa.com.br/coxao-mole-bovino-pedaco-resfriado/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/260333/67928ff8745e30db04de07bb.jpg?v=638732551613700000",
+        "imageId": "260333"
+      },
+      {
+        "name": "Picadinho de Coxão Mole Bovino Resfriado",
+        "brand": "Sem Marca",
+        "link": "https://www.gbarbosa.com.br/picadinho-de-coxao-mole-bovino-resfriado/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/275700/692ee7f37a71145f05cc88c0.jpg?v=639002785179170000",
+        "imageId": "275700"
+      },
+      {
+        "name": "Coxão Duro Bovinoino Resfriado Pedaço",
+        "brand": "Feito Por Nos",
+        "link": "https://www.gbarbosa.com.br/coxao-duro-bovinoino-resfriado-pedaco/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/209640/655264f28d0743e14888e4bb.jpg?v=638354954139030000",
+        "imageId": "209640"
+      }
+    ],
+    "searchUrl": "https://www.gbarbosa.com.br/Cox%C3%A3o%20Mole%20Bovino%20Resfriado?_q=Cox%C3%A3o%20Mole%20Bovino%20Resfriado&map=ft"
+  },
+  "acém bovino": {
+    "products": [
+      {
+        "name": "Acém Bovino Pedaço",
+        "brand": "Sem Marca",
+        "link": "https://www.gbarbosa.com.br/acem-bovino-pedaco/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/213755/655268528d0743e14888f506.jpg?v=638354962782670000",
+        "imageId": "213755"
+      },
+      {
+        "name": "Acém Bovino Moído",
+        "brand": "Feito Por Nos",
+        "link": "https://www.gbarbosa.com.br/acem-bovino-moido/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/210931/655265fd8d0743e14888e9ca.jpg?v=638354956818570000",
+        "imageId": "210931"
+      },
+      {
+        "name": "Acém Bovino Descongelado Pedaço",
+        "brand": "Feito Por Nos",
+        "link": "https://www.gbarbosa.com.br/acem-bovino-descongelado-pedaco/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/214681/6552690c8d0743e14888f8cc.jpg?v=638354964639370000",
+        "imageId": "214681"
+      },
+      {
+        "name": "Acém Bovino com Osso Pedaço",
+        "brand": "Feito Por Nos",
+        "link": "https://www.gbarbosa.com.br/acem-bovino-com-osso-pedaco/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/209449/655264dd8d0743e14888e483.jpg?v=638354953930270000",
+        "imageId": "209449"
+      },
+      {
+        "name": "Acém Bovino a Vácuo Peça",
+        "brand": "Sem Marca",
+        "link": "https://www.gbarbosa.com.br/acem-bovino-a-vacuo-peca/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/209447/655264dd8d0743e14888e437.jpg?v=638354953930100000",
+        "imageId": "209447"
+      }
+    ],
+    "searchUrl": "https://www.gbarbosa.com.br/Ac%C3%A9m%20Bovino?_q=Ac%C3%A9m%20Bovino&map=ft"
+  },
+  "acém bovino sem osso": {
+    "products": [
+      {
+        "name": "Acém Bovino sem Osso Pedaço",
+        "brand": "Feito Por Nos",
+        "link": "https://www.gbarbosa.com.br/acem-bovino-sem-osso-pedaco/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/209544/655264dd8d0743e14888e484.jpg?v=638354953936200000",
+        "imageId": "209544"
+      },
+      {
+        "name": "Acém Bovino sem Osso Pedaço Resfriado",
+        "brand": "Feito Por Nos",
+        "link": "https://www.gbarbosa.com.br/acem-bovino-sem-osso-pedaco-resfriado/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/275651/692ee7dd7a71145f05cc88a6.jpg?v=639002784996330000",
+        "imageId": "275651"
+      },
+      {
+        "name": "Acém Bovino com Osso Pedaço",
+        "brand": "Feito Por Nos",
+        "link": "https://www.gbarbosa.com.br/acem-bovino-com-osso-pedaco/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/209449/655264dd8d0743e14888e483.jpg?v=638354953930270000",
+        "imageId": "209449"
+      },
+      {
+        "name": "Acém Bovino com Osso Congelado Pedaço",
+        "brand": "Feito Por Nos",
+        "link": "https://www.gbarbosa.com.br/acem-bovino-com-osso-congelado-pedaco/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/214408/655268ce8d0743e14888f759.jpg?v=638354964018230000",
+        "imageId": "214408"
+      },
+      {
+        "name": "Peito Bovino sem Osso Resfriado Pedaço",
+        "brand": "Feito Por Nos",
+        "link": "https://www.gbarbosa.com.br/peito-bovino-sem-osso-resfriado-pedaco/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/210022/655265448d0743e14888e656.jpg?v=638354954963570000",
+        "imageId": "210022"
+      }
+    ],
+    "searchUrl": "https://www.gbarbosa.com.br/Ac%C3%A9m%20Bovino%20sem%20osso?_q=Ac%C3%A9m%20Bovino%20sem%20osso&map=ft"
+  },
+  "abacate": {
+    "products": [
+      {
+        "name": "Abacate",
+        "brand": "Sem Marca",
+        "link": "https://www.gbarbosa.com.br/abacate/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/208699/655264388d0743e14888e119.jpg?v=638354952294030000",
+        "imageId": "208699"
+      },
+      {
+        "name": "Abacate Pedaço",
+        "brand": "Sem Marca",
+        "link": "https://www.gbarbosa.com.br/abacate-pedaco-1885541/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/277299/69557c38d8a7ae0647dff957.jpg?v=639028068437530000",
+        "imageId": "277299"
+      },
+      {
+        "name": "Abacate Fracionado",
+        "brand": "Feito Por Nos",
+        "link": "https://www.gbarbosa.com.br/abacate-fracionado/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/264602/6830c7bf71bda45128bb4ce6.jpg?v=638836241294800000",
+        "imageId": "264602"
+      },
+      {
+        "name": "Abacate Orgânico",
+        "brand": "Sem Marca",
+        "link": "https://www.gbarbosa.com.br/abacate-organico/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/241076/6564ea0a641962b073e4c4e6.jpg?v=638367091340270000",
+        "imageId": "241076"
+      },
+      {
+        "name": "Abacate Avocado Embalado",
+        "brand": "Feito Por Nos",
+        "link": "https://www.gbarbosa.com.br/abacate-avocado-embalado/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/210461/655265ab8d0743e14888e849.jpg?v=638354955993000000",
+        "imageId": "210461"
+      }
+    ],
+    "searchUrl": "https://www.gbarbosa.com.br/Abacate?_q=Abacate&map=ft"
+  },
+  "azeite de oliva andorinha extra virgem 500ml": {
+    "products": [
+      {
+        "name": "Azeite de Oliva Olitalia Extra Virgem 500ml",
+        "brand": "Olitalia",
+        "link": "https://www.gbarbosa.com.br/azeite-de-oliva-olitalia-extra-virgem-500ml/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/237663/6564e72f641962b073e4b772.jpg?v=638367084040870000",
+        "imageId": "237663"
+      },
+      {
+        "name": "Azeite de Oliva Português Andorinha Extra Virgem Vidro 500ml",
+        "brand": "Andorinha",
+        "link": "https://www.gbarbosa.com.br/azeite-de-oliva-portugues-andorinha-extra-virgem-vidro-500ml/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/259069/6748d58c33f1d9e6e15dc214.jpg?v=638684233089970000",
+        "imageId": "259069"
+      },
+      {
+        "name": "Azeite de Oliva Colavita Extra Virgem Grécia 500ml",
+        "brand": "Colavita",
+        "link": "https://www.gbarbosa.com.br/azeite-de-oliva-colavita-extra-virgem-grecia-500ml-1770809/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/240945/6564e9f5641962b073e4c495.jpg?v=638367091134070000",
+        "imageId": "240945"
+      },
+      {
+        "name": "Azeite de Oliva Italiano Extra Virgem Fiorentini 500ml",
+        "brand": "Fiorentini",
+        "link": "https://www.gbarbosa.com.br/azeite-de-oliva-italiano-extra-virgem-fiorentini-500ml/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/268999/68c1d4ef9c129f1ae5869a47.jpg?v=638931302289800000",
+        "imageId": "268999"
+      },
+      {
+        "name": "Azeite de Oliva Extra Virgem Mueloliva 500ml",
+        "brand": "Mueloliva",
+        "link": "https://www.gbarbosa.com.br/azeite-de-oliva-extra-virgem-mueloliva-500ml/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/259179/6749b0b75f0133db28f0bfa9.jpg?v=638684794161300000",
+        "imageId": "259179"
+      }
+    ],
+    "searchUrl": "https://www.gbarbosa.com.br/Azeite%20de%20Oliva%20Andorinha%20Extra%20Virgem%E2%80%A8500ml?_q=Azeite%20de%20Oliva%20Andorinha%20Extra%20Virgem%E2%80%A8500ml&map=ft"
+  },
+  "achocolatado em pó nescau  pacote 550g": {
+    "products": [
+      {
+        "name": "Achocolatado em Pó Nescau Pacote 550g",
+        "brand": "Nestlé",
+        "link": "https://www.gbarbosa.com.br/achocolatado-em-po-nescau-pacote-550g/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/283594/69ce9ee2588cd9960a50e8e6.jpg?v=639107455786730000",
+        "imageId": "283594"
+      },
+      {
+        "name": "Achocolatado em Pó Nescau Pacote Leve 550g Pague 500g",
+        "brand": "Nescau",
+        "link": "https://www.gbarbosa.com.br/achocolatado-em-po-nescau-pacote-leve-550g-pague-500g-1881785/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/266719/688bb4de80ee5e9c7235684f.jpg?v=638895830777470000",
+        "imageId": "266719"
+      },
+      {
+        "name": "Achocolatado em Pó Nescau Lata 350g",
+        "brand": "Nescau",
+        "link": "https://www.gbarbosa.com.br/achocolatado-em-po-nescau-lata-350g/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/261219/67bdbe0ace4ea984e983f2bc.jpg?v=638760850053100000",
+        "imageId": "261219"
+      },
+      {
+        "name": "Achocolatado em Pó Nescau Protein Lata 330g",
+        "brand": "Nescau",
+        "link": "https://www.gbarbosa.com.br/achocolatado-em-po-nescau-protein-lata-330g-1884429/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/279244/69a9d17b838c2a56a0020a47.jpg?v=639083336977530000",
+        "imageId": "279244"
+      },
+      {
+        "name": "Achocolatado Pó Nescau Lata 670g",
+        "brand": "Nescau",
+        "link": "https://www.gbarbosa.com.br/achocolatado-po-nescau-lata-670g/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/206549/6542808c00ad0791d0d8fe42.jpg?v=638344539009270000",
+        "imageId": "206549"
+      }
+    ],
+    "searchUrl": "https://www.gbarbosa.com.br/Achocolatado%20em%20P%C3%B3%20Nescau%20%20Pacote%E2%80%A8550g?_q=Achocolatado%20em%20P%C3%B3%20Nescau%20%20Pacote%E2%80%A8550g&map=ft"
+  },
+  "azeite de oliva português andorinha 500ml": {
+    "products": [
+      {
+        "name": "Azeite de Oliva Português Andorinha Extra Virgem Vidro 500ml",
+        "brand": "Andorinha",
+        "link": "https://www.gbarbosa.com.br/azeite-de-oliva-portugues-andorinha-extra-virgem-vidro-500ml/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/259069/6748d58c33f1d9e6e15dc214.jpg?v=638684233089970000",
+        "imageId": "259069"
+      },
+      {
+        "name": "Azeite de Oliva Português Herdade do Esporão Extra Virgem Galega Vidro 500ml",
+        "brand": "Herdade",
+        "link": "https://www.gbarbosa.com.br/azeite-de-oliva-portugues-herdade-do-esporao-extra-virgem-galega-vidro-500ml/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/260978/67b5e209e74c62d52a84b3eb.jpg?v=638755699362170000",
+        "imageId": "260978"
+      },
+      {
+        "name": "Azeite de Oliva Português Herdade do Esporão Extra Virgem Cordovil Vidro 500ml",
+        "brand": "Esporao",
+        "link": "https://www.gbarbosa.com.br/azeite-de-oliva-portugues-herdade-do-esporao-extra-virgem-cordovil-vidro-500ml/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/260772/67a4c58b8fe919dea7979f5a.jpg?v=638744485243800000",
+        "imageId": "260772"
+      },
+      {
+        "name": "Azeite de Oliva Português Rossio de Abrantes Extra Virgem Frutado Master Blenders Vidro 500ml",
+        "brand": "Rossio De Abrantes",
+        "link": "https://www.gbarbosa.com.br/azeite-de-oliva-portugues-rossio-de-abrantes-extra-virgem-frutado-master-blenders-vidro-500ml/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/268997/68c1d4f09c129f1ae5869a48.jpg?v=638931302289030000",
+        "imageId": "268997"
+      }
+    ],
+    "searchUrl": "https://www.gbarbosa.com.br/Azeite%20de%20Oliva%20Portugu%C3%AAs%20Andorinha%E2%80%A8500ml?_q=Azeite%20de%20Oliva%20Portugu%C3%AAs%20Andorinha%E2%80%A8500ml&map=ft"
+  },
+  "coxa de frango congelada sadia 1kg": {
+    "products": [
+      {
+        "name": "Coxa de Frango Congelada Sadia 1kg",
+        "brand": "Sadia",
+        "link": "https://www.gbarbosa.com.br/coxa-de-frango-congelada-sadia-1kg/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/250115/65ce076e144c467449da1942.jpg?v=638435979350400000",
+        "imageId": "250115"
+      },
+      {
+        "name": "Sobrecoxa de Frango Congelada Sadia Zip 1Kg",
+        "brand": "Sadia",
+        "link": "https://www.gbarbosa.com.br/sobrecoxa-de-frango-congelada-sadia-zip-1kg/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/250074/65cd34c135a425b4078ef51d.jpg?v=638435440024330000",
+        "imageId": "250074"
+      },
+      {
+        "name": "Coxa de Frango Sadia Congelada Bandeja 1Kg",
+        "brand": "Sadia",
+        "link": "https://www.gbarbosa.com.br/coxa-de-frango-sadia-congelada-bandeja-1kg/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/267013/689b9e7facec17dc977d7b7e.jpg?v=638906259266900000",
+        "imageId": "267013"
+      },
+      {
+        "name": "Coxa de Frango Sadia Bio 1Kg",
+        "brand": "Sadia",
+        "link": "https://www.gbarbosa.com.br/coxa-de-frango-sadia-bio-1kg/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/250111/65ce0751144c467449da193e.jpg?v=638435979059070000",
+        "imageId": "250111"
+      },
+      {
+        "name": "Sobrecoxa de Frango Sadia Congelada Bandeja 1Kg",
+        "brand": "Sadia",
+        "link": "https://www.gbarbosa.com.br/sobrecoxa-de-frango-sadia-congelada-bandeja-1kg/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/268136/68a88a7b9f7e436832d9f417.jpg?v=638914727654830000",
+        "imageId": "268136"
+      }
+    ],
+    "searchUrl": "https://www.gbarbosa.com.br/Coxa%20de%20Frango%20Congelada%20Sadia%201kg?_q=Coxa%20de%20Frango%20Congelada%20Sadia%201kg&map=ft"
+  },
+  "lagarto bovino pedaço": {
+    "products": [
+      {
+        "name": "Lagarto Bovino Pedaço",
+        "brand": "Feito Por Nos",
+        "link": "https://www.gbarbosa.com.br/lagarto-bovino-pedaco-1112015/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/208679/655264388d0743e14888e152.jpg?v=638354952293400000",
+        "imageId": "208679"
+      },
+      {
+        "name": "Lagarto Bovino Redondo a Vácuo",
+        "brand": "Sem Marca",
+        "link": "https://www.gbarbosa.com.br/lagarto-bovino-redondo-a-vacuo/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/208640/655264238d0743e14888e0ce.jpg?v=638354952077600000",
+        "imageId": "208640"
+      },
+      {
+        "name": "Lagarto Bovino em Bife",
+        "brand": "Feito Por Nos",
+        "link": "https://www.gbarbosa.com.br/lagarto-bovino-em-bife/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/208738/655264388d0743e14888e155.jpg?v=638354952295930000",
+        "imageId": "208738"
+      },
+      {
+        "name": "Lagarto Bovino a Vácuo Peça",
+        "brand": "Sem Marca",
+        "link": "https://www.gbarbosa.com.br/lagarto-bovino-a-vacuo-peca/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/210075/655265598d0743e14888e6b0.jpg?v=638354955168030000",
+        "imageId": "210075"
+      },
+      {
+        "name": "Contra Filé Bovino Pedaço Bandeja",
+        "brand": "Feito Por Nos",
+        "link": "https://www.gbarbosa.com.br/contra-file-bovino-pedaco-bandeja/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/211206/6552663b8d0743e14888eb01.jpg?v=638354957429870000",
+        "imageId": "211206"
+      }
+    ],
+    "searchUrl": "https://www.gbarbosa.com.br/Lagarto%20Bovino%20Peda%C3%A7o?_q=Lagarto%20Bovino%20Peda%C3%A7o&map=ft"
+  },
+  "ovos branco cuisine&co extra 20 unidades": {
+    "products": [
+      {
+        "name": "Ovos Branco Cuisine&Co Extra com 20 Unidades",
+        "brand": "Cuisine&Co",
+        "link": "https://www.gbarbosa.com.br/ovos-branco-cuisine-co-extra-com-20-unidades/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/261175/67bdae3f25c6730402305031.jpg?v=638760809608670000",
+        "imageId": "261175"
+      },
+      {
+        "name": "Ovos Branco Cuisine&Co Extra com 30 Unidades",
+        "brand": "Cuisine&Co",
+        "link": "https://www.gbarbosa.com.br/ovos-branco-cuisine-co-extra-com-30-unidades/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/260118/6781c1ba3afe12bdf55d1f9e.jpg?v=638721537889300000",
+        "imageId": "260118"
+      },
+      {
+        "name": "Ovos Vermelho Cuisine&Co Extra com 20 Unidades",
+        "brand": "Cuisine&Co",
+        "link": "https://www.gbarbosa.com.br/ovos-vermelho-cuisine-co-extra-com-20-unidades/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/261186/67bdaf0d9020d1a695ac1f97.jpg?v=638760811668000000",
+        "imageId": "261186"
+      },
+      {
+        "name": "Arroz Branco Cuisine&Co 1Kg",
+        "brand": "Cuisine&Co",
+        "link": "https://www.gbarbosa.com.br/arroz-branco-cuisine-co-1kg/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/269860/68e4267a7e8c1e5b74fbc78e.jpg?v=638953793261600000",
+        "imageId": "269860"
+      },
+      {
+        "name": "Ovos Vermelho Cuisine&Co Grande com 12 Unidades",
+        "brand": "Cuisine&Co",
+        "link": "https://www.gbarbosa.com.br/ovos-vermelho-cuisine-co-grande-com-12-unidades/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/270101/68e42aebb3a2a36197d96241.jpg?v=638953804624430000",
+        "imageId": "270101"
+      }
+    ],
+    "searchUrl": "https://www.gbarbosa.com.br/Ovos%20Branco%20Cuisine%26Co%20Extra%E2%80%A820%20unidades?_q=Ovos%20Branco%20Cuisine%26Co%20Extra%E2%80%A820%20unidades&map=ft"
+  },
+  "picanha maturatta": {
+    "products": [
+      {
+        "name": "Picanha Bovina Maturatta Congelada",
+        "brand": "Maturatta",
+        "link": "https://www.gbarbosa.com.br/picanha-bovina-maturatta-congelada/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/212573/6552675b8d0743e14888f093.jpg?v=638354960313400000",
+        "imageId": "212573"
+      },
+      {
+        "name": "Picanha Bovina Maturatta Resfriada a Vácuo Peso",
+        "brand": "Sem Marca",
+        "link": "https://www.gbarbosa.com.br/picanha-bovina-maturatta-resfriada-a-vacuo-peso/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/209876/655265308d0743e14888e5d3.jpg?v=638354954759230000",
+        "imageId": "209876"
+      }
+    ],
+    "searchUrl": "https://www.gbarbosa.com.br/Picanha%20Maturatta?_q=Picanha%20Maturatta&map=ft"
+  },
+  "coração da alcatra bovino la hacienda importado congelado": {
+    "products": [
+      {
+        "name": "Coração da Alcatra Bovino La Hacienda Importado Congelado",
+        "brand": "Cuisine&Co",
+        "link": "https://www.gbarbosa.com.br/coracao-da-alcatra-bovino-la-hacienda-importado-congelado/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/254623/663a7f64e9237309be7103e1.jpg?v=638507065324330000",
+        "imageId": "254623"
+      },
+      {
+        "name": "Steak Chorizo Bovino La Hacienda C&Co Importado Congelado",
+        "brand": "Cuisine&Co",
+        "link": "https://www.gbarbosa.com.br/steak-chorizo-bovino-la-hacienda-c-co-importado-congelado/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/280139/69c52279e67ef8be2639e39a.jpg?v=639101239035700000",
+        "imageId": "280139"
+      },
+      {
+        "name": "Filé Mignon Bovino La Hacienda C&Co Importado Congelado",
+        "brand": "Cuisine&Co",
+        "link": "https://www.gbarbosa.com.br/file-mignon-bovino-la-hacienda-c-co-importado-congelado/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/260147/6785032368e2c3f51926170c.jpg?v=638723671397470000",
+        "imageId": "260147"
+      },
+      {
+        "name": "Bife Acho Bovino La Hacienda C&Co Importado Congelado",
+        "brand": "Cuisine&Co",
+        "link": "https://www.gbarbosa.com.br/bife-acho-bovino-la-hacienda-c-co-importado-congelado/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/254649/663cd0f5352444ee9c052b4c.jpg?v=638508584858670000",
+        "imageId": "254649"
+      }
+    ],
+    "searchUrl": "https://www.gbarbosa.com.br/Cora%C3%A7%C3%A3o%20da%20Alcatra%20Bovino%20La%20Hacienda%20Importado%20Congelado?_q=Cora%C3%A7%C3%A3o%20da%20Alcatra%20Bovino%20La%20Hacienda%20Importado%20Congelado&map=ft"
+  },
+  "whisky jack daniels apple 35% 1l": {
+    "products": [
+      {
+        "name": "Whisky Jack Daniels Apple 35% 1l",
+        "brand": "Jack Daniel'S",
+        "link": "https://www.gbarbosa.com.br/whisky-jack-daniels-apple-35--1l/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/254814/663e766d65f3addc63f0d1d9.jpg?v=638509663836670000",
+        "imageId": "254814"
+      },
+      {
+        "name": "Whisky Jack Daniels Tennesse 1l",
+        "brand": "Jack Daniel'S",
+        "link": "https://www.gbarbosa.com.br/whisky-jack-daniels-tennesse-1l/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/208427/655263fa8d0743e14888e02e.jpg?v=638354951673100000",
+        "imageId": "208427"
+      },
+      {
+        "name": "Whisky Jack Daniels Gentleman Jack 1l",
+        "brand": "Jack Daniel'S",
+        "link": "https://www.gbarbosa.com.br/whisky-jack-daniels-gentleman-jack-1l/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/238473/6564e7d6641962b073e4ba91.jpg?v=638367085700370000",
+        "imageId": "238473"
+      },
+      {
+        "name": "Whisky Jack DanielS Fire + Copo 1l",
+        "brand": "Jack Daniel'S",
+        "link": "https://www.gbarbosa.com.br/whisky-jack-daniels-fire---copo-1l/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/241403/6564ea48641962b073e4c5db.jpg?v=638367091962530000",
+        "imageId": "241403"
+      },
+      {
+        "name": "Whisky Jack Daniels Tennessee Fire 1l",
+        "brand": "Jack Daniel'S",
+        "link": "https://www.gbarbosa.com.br/whisky-jack-daniels-tennessee-fire-1l/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/213737/6552683e8d0743e14888f4c3.jpg?v=638354962580130000",
+        "imageId": "213737"
+      }
+    ],
+    "searchUrl": "https://www.gbarbosa.com.br/Whisky%20Jack%20Daniels%20Apple%2035%25%E2%80%A81L?_q=Whisky%20Jack%20Daniels%20Apple%2035%25%E2%80%A81L&map=ft"
+  },
+  "creme de avelã cuisine&co com cacau 350g": {
+    "products": [
+      {
+        "name": "Creme de Avelã Cuisine&Co com Cacau Vidro 350g",
+        "brand": "Cuisine&Co",
+        "link": "https://www.gbarbosa.com.br/creme-de-avela-cuisine-co-com-cacau-vidro-350g/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/256775/66eacb09ba5236d4cda8e8b4.jpg?v=638622602345600000",
+        "imageId": "256775"
+      },
+      {
+        "name": "Creme de Avelã Cuisine&Co Duo Vidro 350g",
+        "brand": "Cuisine&Co",
+        "link": "https://www.gbarbosa.com.br/creme-de-avela-cuisine-co-duo-vidro-350g/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/256776/66eacb37ba5236d4cda8e8b5.jpg?v=638622602802170000",
+        "imageId": "256776"
+      },
+      {
+        "name": "Creme de Avelã Nutella com Cacau Tradicional Pote 140g",
+        "brand": "Nutella",
+        "link": "https://www.gbarbosa.com.br/creme-de-avela-nutella-com-cacau-tradicional-pote-140g/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/248063/6579e71c9e0fc0e07ac48b5f.jpg?v=638380846378070000",
+        "imageId": "248063"
+      },
+      {
+        "name": "Creme de Manga Cuisine&Co Pote 1,5Kg",
+        "brand": "Cuisine&Co",
+        "link": "https://www.gbarbosa.com.br/creme-de-manga-cuisine-co-pote-1-5kg/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/260846/67ac8b43e098e80119794b4f.jpg?v=638749578926030000",
+        "imageId": "260846"
+      },
+      {
+        "name": "Creme de Garviola Cuisine&Co Pote 1,5Kg",
+        "brand": "Cuisine&Co",
+        "link": "https://www.gbarbosa.com.br/creme-de-garviola-cuisine-co-pote-1-5kg/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/260848/67ac8b437f18eee027163e34.jpg?v=638749578927000000",
+        "imageId": "260848"
+      }
+    ],
+    "searchUrl": "https://www.gbarbosa.com.br/Creme%20de%20Avel%C3%A3%20Cuisine%26Co%20com%20Cacau%20350g?_q=Creme%20de%20Avel%C3%A3%20Cuisine%26Co%20com%20Cacau%20350g&map=ft"
+  },
+  "biscoito cream cracker vitarella amanteigado tradicional 350g": {
+    "products": [
+      {
+        "name": "Biscoito Cream Cracker Vitarella Amanteigado Tradicional 350g",
+        "brand": "Vitarella",
+        "link": "https://www.gbarbosa.com.br/biscoito-cream-cracker-vitarella-amanteigado-tradicional-350g/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/216128/65526a2c8d0743e14888fe27.jpg?v=638354967525670000",
+        "imageId": "216128"
+      },
+      {
+        "name": "Biscoito Cream Cracker Vitarella Crocks Tradicional 350g",
+        "brand": "Vitarella",
+        "link": "https://www.gbarbosa.com.br/biscoito-cream-cracker-vitarella-crocks-tradicional-350g-1818130003/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/220207/65526d788d0743e148890e27.jpg?v=638354975958970000",
+        "imageId": "220207"
+      },
+      {
+        "name": "Biscoito Cream Cracker Vitarella Tostadinha Pacote 350g",
+        "brand": "Vitarella",
+        "link": "https://www.gbarbosa.com.br/biscoito-cream-cracker-vitarella-tostadinha-pacote-350g/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/216124/65526a2c8d0743e14888fe41.jpg?v=638354967525370000",
+        "imageId": "216124"
+      },
+      {
+        "name": "Biscoito Cream Cracker Vitarella Fermentação Natural 350g",
+        "brand": "Vitarella",
+        "link": "https://www.gbarbosa.com.br/biscoito-cream-cracker-vitarella-fermentacao-natural-350g/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/205453/65206f261087ad0cbd741a32.jpg?v=638322212304100000",
+        "imageId": "205453"
+      },
+      {
+        "name": "Biscoito Cream Cracker Vitarella Crocks Queijo 350g",
+        "brand": "Vitarella",
+        "link": "https://www.gbarbosa.com.br/biscoito-cream-cracker-vitarella-crocks-queijo-350g-1818130002/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/220220/65526d788d0743e148890e26.jpg?v=638354975959600000",
+        "imageId": "220220"
+      }
+    ],
+    "searchUrl": "https://www.gbarbosa.com.br/Biscoito%20Cream%20Cracker%20Vitarella%20Amanteigado%20Tradicional%E2%80%A8350g?_q=Biscoito%20Cream%20Cracker%20Vitarella%20Amanteigado%20Tradicional%E2%80%A8350g&map=ft"
+  },
+  "paleta suína com toucinho resfriada pedaço": {
+    "products": [
+      {
+        "name": "Paleta Suína com Toucinho Resfriada Pedaço",
+        "brand": "Feito Por Nos",
+        "link": "https://www.gbarbosa.com.br/paleta-suina-com-toucinho-resfriada-pedaco/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/210996/655266128d0743e14888ea0a.jpg?v=638354957021170000",
+        "imageId": "210996"
+      },
+      {
+        "name": "Paleta Suína com Osso Resfriada Pedaço",
+        "brand": "Feito Por Nos",
+        "link": "https://www.gbarbosa.com.br/paleta-suina-com-osso-resfriada-pedaco-1112129/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/208799/6552644c8d0743e14888e188.jpg?v=638354952485500000",
+        "imageId": "208799"
+      },
+      {
+        "name": "Barriga Suína Resfriada Pedaço",
+        "brand": "Feito Por Nos",
+        "link": "https://www.gbarbosa.com.br/barriga-suina-resfriada-pedaco/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/208782/6552644c8d0743e14888e186.jpg?v=638354952484730000",
+        "imageId": "208782"
+      }
+    ],
+    "searchUrl": "https://www.gbarbosa.com.br/Paleta%20Su%C3%ADna%20com%20Toucinho%20Resfriada%20Peda%C3%A7o?_q=Paleta%20Su%C3%ADna%20com%20Toucinho%20Resfriada%20Peda%C3%A7o&map=ft"
+  },
+  "ameixa cuisine&co sem caroço 150g": {
+    "products": [
+      {
+        "name": "Ameixa Cuisine&Co sem Caroço 150g",
+        "brand": "Cuisine&Co",
+        "link": "https://www.gbarbosa.com.br/ameixa-cuisine-co-sem-caroco-150g-1880979/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/280088/69bec3c67e77a413146c151d.jpg?v=639097064456100000",
+        "imageId": "280088"
+      }
+    ],
+    "searchUrl": "https://www.gbarbosa.com.br/Ameixa%20Cuisine%26Co%20sem%20Caro%C3%A7o%E2%80%A8150g?_q=Ameixa%20Cuisine%26Co%20sem%20Caro%C3%A7o%E2%80%A8150g&map=ft"
+  },
+  "abacaxi pérola": {
+    "products": [
+      {
+        "name": "Abacaxi Pérola Unidade",
+        "brand": "Sem Marca",
+        "link": "https://www.gbarbosa.com.br/abacaxi-perola-unidade/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/208540/6552640f8d0743e14888e09f.jpg?v=638354951871830000",
+        "imageId": "208540"
+      },
+      {
+        "name": "Abacaxi Pérola Doce Mel",
+        "brand": "Doce Mel",
+        "link": "https://www.gbarbosa.com.br/abacaxi-perola-doce-mel/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/237895/6564e759641962b073e4b878.jpg?v=638367084453200000",
+        "imageId": "237895"
+      }
+    ],
+    "searchUrl": "https://www.gbarbosa.com.br/Abacaxi%20P%C3%A9rola?_q=Abacaxi%20P%C3%A9rola&map=ft"
+  },
+  "batata doce": {
+    "products": [
+      {
+        "name": "Batata Doce",
+        "brand": "Sem Marca",
+        "link": "https://www.gbarbosa.com.br/batata-doce/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/208664/655264388d0743e14888e116.jpg?v=638354952293100000",
+        "imageId": "208664"
+      },
+      {
+        "name": "Batata Doce Cozida",
+        "brand": "Feito Por Nos",
+        "link": "https://www.gbarbosa.com.br/batata-doce-cozida/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/210407/655265978d0743e14888e7ab.jpg?v=638354955785400000",
+        "imageId": "210407"
+      },
+      {
+        "name": "Batata Doce Orgânica",
+        "brand": "Sem Marca",
+        "link": "https://www.gbarbosa.com.br/batata-doce-organica/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/209954/655265448d0743e14888e67d.jpg?v=638354954961530000",
+        "imageId": "209954"
+      },
+      {
+        "name": "Batata Doce Roxa",
+        "brand": "Sem Marca",
+        "link": "https://www.gbarbosa.com.br/batata-doce-roxa/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/181722/629fb3c08f3f6285a223aa10.png?v=637902302303800000",
+        "imageId": "181722"
+      },
+      {
+        "name": "Batata Doce Branca",
+        "brand": "Sem Marca",
+        "link": "https://www.gbarbosa.com.br/batata-doce-branca/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/210760/655265e98d0743e14888e974.jpg?v=638354956613170000",
+        "imageId": "210760"
+      }
+    ],
+    "searchUrl": "https://www.gbarbosa.com.br/Batata%20Doce?_q=Batata%20Doce&map=ft"
   }
 }

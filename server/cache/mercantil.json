@@ -10,5 +10,1445 @@
       }
     ],
     "searchUrl": "https://www.mercantilatacado.com.br/banana%20prata?_q=banana%20prata&map=ft"
+  },
+  "suco one": {
+    "products": [
+      {
+        "name": "Suco Natural One Uva e Maçã 180ml",
+        "brand": "Natural One",
+        "link": "https://www.mercantilatacado.com.br/suco-natural-one-uva-e-maca-180ml/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/190965/66914a40824a588d9d72f309.jpg?v=638563945661430000",
+        "imageId": "190965"
+      },
+      {
+        "name": "Suco Natural One Laranja e Maçã 180ml",
+        "brand": "Natural One",
+        "link": "https://www.mercantilatacado.com.br/suco-natural-one-laranja-e-maca-180ml/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/191089/66914a54824a588d9d72f372.jpg?v=638563945849230000",
+        "imageId": "191089"
+      },
+      {
+        "name": "Suco Natural One Laranja Integral Garrafa 1.5l",
+        "brand": "Natural One",
+        "link": "https://www.mercantilatacado.com.br/suco-natural-one-laranja-integral-garrafa-1-5l-257252/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/191034/66914a54824a588d9d72f396.jpg?v=638563945847370000",
+        "imageId": "191034"
+      },
+      {
+        "name": "Suco Natural One Misto Uva e Maçã Garrafa 1.5l",
+        "brand": "Natural One",
+        "link": "https://www.mercantilatacado.com.br/suco-natural-one-misto-uva-e-maca-garrafa-1-5l/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/190903/66914a2c824a588d9d72f2f6.jpg?v=638563945420430000",
+        "imageId": "190903"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/Suco%20One?_q=Suco%20One&map=ft"
+  },
+  "açúcar cristal bella 1kg": {
+    "products": [
+      {
+        "name": "Açúcar Cristal Bella 1Kg",
+        "brand": "Bella",
+        "link": "https://www.mercantilatacado.com.br/acucar-cristal-bella-1kg-278063/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/170611/654a31b775d9096810e2c2d3.jpg?v=638349580103970000",
+        "imageId": "170611"
+      },
+      {
+        "name": "Açúcar Cristal Bella In Natura 800g",
+        "brand": "Bella",
+        "link": "https://www.mercantilatacado.com.br/acucar-cristal-bella-in-natura-800g/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/167902/651f0626a8c782c9100ef1b6.jpg?v=638321288160200000",
+        "imageId": "167902"
+      },
+      {
+        "name": "Açúcar Cristal Caeté 1Kg",
+        "brand": "Caete",
+        "link": "https://www.mercantilatacado.com.br/acucar-cristal-caete-1kg-277434/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/190116/65fc7b1789aac3f6f522d88a.jpg?v=638466422044330000",
+        "imageId": "190116"
+      },
+      {
+        "name": "Açúcar Cristal Agrovale 1Kg",
+        "brand": "Agrovale",
+        "link": "https://www.mercantilatacado.com.br/acucar-cristal-agrovale-1kg/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/170727/654a31cb75d9096810e2c339.jpg?v=638349580316370000",
+        "imageId": "170727"
+      },
+      {
+        "name": "Açúcar Cristal Petribu 1Kg",
+        "brand": "Petribu",
+        "link": "https://www.mercantilatacado.com.br/acucar-cristal-petribu-1kg/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/172694/654a338775d9096810e2cb15.jpg?v=638349584746130000",
+        "imageId": "172694"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/A%C3%A7%C3%BAcar%20Cristal%20Bella%E2%80%A81Kg?_q=A%C3%A7%C3%BAcar%20Cristal%20Bella%E2%80%A81Kg&map=ft"
+  },
+  "extrato de tomate elefante só tomate 300g": {
+    "products": [
+      {
+        "name": "Extrato de Tomate Elefante Só Tomate Pote 300g",
+        "brand": "Elefante",
+        "link": "https://www.mercantilatacado.com.br/extrato-de-tomate-elefante-so-tomate-pote-300g-274426/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/181251/654a9b07d757cfdcee6682a5.jpg?v=638349849731500000",
+        "imageId": "181251"
+      },
+      {
+        "name": "Extrato de Tomate Elefante Só Tomate s/ Açúcar s/ Sal Pote 310g",
+        "brand": "Elefante",
+        "link": "https://www.mercantilatacado.com.br/extrato-de-tomate-elefante-so-tomate-s--acucar-s--sal-pote-310g/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/191473/66f6c0631a8776ed40b1e7ee.jpg?v=638630439437630000",
+        "imageId": "191473"
+      },
+      {
+        "name": "Extrato de Tomate Elefante Pote 300g",
+        "brand": "Elefante",
+        "link": "https://www.mercantilatacado.com.br/extrato-de-tomate-elefante-pote-300g/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/175317/654a35c675d9096810e2d564.jpg?v=638349590504500000",
+        "imageId": "175317"
+      },
+      {
+        "name": "Extrato Tomate Elefante Pote 310g",
+        "brand": "Elefante",
+        "link": "https://www.mercantilatacado.com.br/extrato-tomate-elefante-pote-310g/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/174527/654a350d75d9096810e2d22a.jpg?v=638349588657870000",
+        "imageId": "174527"
+      },
+      {
+        "name": "Extrato de Tomate Elefante Sachê 190g",
+        "brand": "Elefante",
+        "link": "https://www.mercantilatacado.com.br/extrato-de-tomate-elefante-sache-190g-279157/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/190033/65fc7b1789aac3f6f522d894.jpg?v=638466422041070000",
+        "imageId": "190033"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/Extrato%20de%20Tomate%20Elefante%20S%C3%B3%20Tomate%E2%80%A8300g?_q=Extrato%20de%20Tomate%20Elefante%20S%C3%B3%20Tomate%E2%80%A8300g&map=ft"
+  },
+  "filezinho sassami de frango congelado sadia 1kg": {
+    "products": [
+      {
+        "name": "Filezinho Sassami de Frango Congelado Sadia 1Kg",
+        "brand": "Sadia",
+        "link": "https://www.mercantilatacado.com.br/filezinho-sassami-de-frango-congelado-sadia-1kg/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/188517/65cd1025b1fe0b2b81088770.jpg?v=638435346294470000",
+        "imageId": "188517"
+      },
+      {
+        "name": "Filezinho Sassami de Frango Avivar Bandeja Congelado 1Kg",
+        "brand": "Avivar",
+        "link": "https://www.mercantilatacado.com.br/filezinho-sassami-de-frango-avivar-bandeja-congelado-1kg/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/189620/65eb2c9609c75d68f086c3a8.jpg?v=638455079943870000",
+        "imageId": "189620"
+      },
+      {
+        "name": "Frango a Passarinho Congelado Sadia 1Kg",
+        "brand": "Sadia",
+        "link": "https://www.mercantilatacado.com.br/frango-a-passarinho-congelado-sadia-1kg-136834/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/190791/663e65cfd6cb4953d65b3ac7.jpg?v=638509621337270000",
+        "imageId": "190791"
+      },
+      {
+        "name": "Filezinho de Frango Sassami Perdigão Bandeja 1Kg",
+        "brand": "Perdigão",
+        "link": "https://www.mercantilatacado.com.br/filezinho-de-frango-sassami-perdigao-bandeja-1kg/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/188441/65ccfc991b5ed73a4948da4a.jpg?v=638435296258430000",
+        "imageId": "188441"
+      },
+      {
+        "name": "Filezinho de Frango Sadia Sassami Tempemperado 1Kg",
+        "brand": "Sadia",
+        "link": "https://www.mercantilatacado.com.br/filezinho-de-frango-sadia-sassami-tempemperado-1kg/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/188518/65cd1031b1fe0b2b81088771.jpg?v=638435346425130000",
+        "imageId": "188518"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/Filezinho%20Sassami%20de%20Frango%20Congelado%20Sadia%201Kg?_q=Filezinho%20Sassami%20de%20Frango%20Congelado%20Sadia%201Kg&map=ft"
+  },
+  "frango inteiro gujão fresquinho": {
+    "products": [
+      {
+        "name": "Frango Inteiro Gujão Fresquinho",
+        "brand": "Gujao",
+        "link": "https://www.mercantilatacado.com.br/frango-inteiro-gujao-fresquinho-1634578/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/172463/654a335e75d9096810e2ca27.jpg?v=638349584333270000",
+        "imageId": "172463"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/Frango%20Inteiro%20Guj%C3%A3o%20Fresquinho?_q=Frango%20Inteiro%20Guj%C3%A3o%20Fresquinho&map=ft"
+  },
+  "coxa c/ sobrecoxa de frango c/ dorso congelada": {
+    "products": [
+      {
+        "name": "Coxa c/ Sobrecoxa de Frango c/ Dorso Congelada",
+        "brand": "Sem Marca",
+        "link": "https://www.mercantilatacado.com.br/coxa-c--sobrecoxa-de-frango-c--dorso-congelada-1194870/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/191014/66914a54824a588d9d72f35d.jpg?v=638563945846600000",
+        "imageId": "191014"
+      },
+      {
+        "name": "Coxa c/ Sobrecoxa de Frango Copacol Congelada",
+        "brand": "Copacol",
+        "link": "https://www.mercantilatacado.com.br/coxa-c--sobrecoxa-de-frango-copacol-congelada/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/171355/654a326775d9096810e2c5a4.jpg?v=638349581883600000",
+        "imageId": "171355"
+      },
+      {
+        "name": "Coxa c/ Sobrecoxa de Frango Congelada",
+        "brand": "Sem Marca",
+        "link": "https://www.mercantilatacado.com.br/coxa-c--sobrecoxa-de-frango-congelada/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/171883/654a32e275d9096810e2c7bf.jpg?v=638349583102030000",
+        "imageId": "171883"
+      },
+      {
+        "name": "Coxa c/ Sobrecoxa de Frango Avivip Congelada",
+        "brand": "Avivip",
+        "link": "https://www.mercantilatacado.com.br/coxa-c--sobrecoxa-de-frango-avivip-congelada-287350/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/175004/654a357475d9096810e2d401.jpg?v=638349589682100000",
+        "imageId": "175004"
+      },
+      {
+        "name": "Coxa c/ Sobrecoxa de Frango Avigran Congelada 1Kg",
+        "brand": "Sem Marca",
+        "link": "https://www.mercantilatacado.com.br/coxa-c--sobrecoxa-de-frango-avigran-congelada-1kg/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/170983/654a320975d9096810e2c455.jpg?v=638349580923700000",
+        "imageId": "170983"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/Coxa%20c%2F%20Sobrecoxa%20de%20Frango%20c%2F%20Dorso%20Congelada?_q=Coxa%20c%2F%20Sobrecoxa%20de%20Frango%20c%2F%20Dorso%20Congelada&map=ft"
+  },
+  "água sanitária ypê 1l": {
+    "products": [
+      {
+        "name": "Água Sanitária Ypê 1l",
+        "brand": "Ypê",
+        "link": "https://www.mercantilatacado.com.br/agua-sanitaria-ype-1l-249604/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/172032/654a32f775d9096810e2c836.jpg?v=638349583302070000",
+        "imageId": "172032"
+      },
+      {
+        "name": "Água Sanitária Ypê 2l",
+        "brand": "Ypê",
+        "link": "https://www.mercantilatacado.com.br/agua-sanitaria-ype-2l/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/171940/654a32e275d9096810e2c7f3.jpg?v=638349583104370000",
+        "imageId": "171940"
+      },
+      {
+        "name": "Água Sanitária Ypê 5l",
+        "brand": "Ypê",
+        "link": "https://www.mercantilatacado.com.br/agua-sanitaria-ype-5l/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/172421/654a334975d9096810e2c9bf.jpg?v=638349584132870000",
+        "imageId": "172421"
+      },
+      {
+        "name": "Água Sanitária Brilux 1l",
+        "brand": "Brilux",
+        "link": "https://www.mercantilatacado.com.br/agua-sanitaria-brilux-1l/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/169570/654a2d7abd028ce2aa287505.jpg?v=638349569265100000",
+        "imageId": "169570"
+      },
+      {
+        "name": "Água Sanitária Clorito 1l",
+        "brand": "Clorito",
+        "link": "https://www.mercantilatacado.com.br/agua-sanitaria-clorito-1l/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/173228/654a340375d9096810e2cd0c.jpg?v=638349585989900000",
+        "imageId": "173228"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/%C3%81gua%20Sanit%C3%A1ria%20Yp%C3%AA%E2%80%A81L?_q=%C3%81gua%20Sanit%C3%A1ria%20Yp%C3%AA%E2%80%A81L&map=ft"
+  },
+  "desinfetante dragão": {
+    "products": [
+      {
+        "name": "Desinfetante Dragão Campestre 2l",
+        "brand": "Dragão",
+        "link": "https://www.mercantilatacado.com.br/desinfetante-dragao-campestre-2l/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/176365/654a36a875d9096810e2d939.jpg?v=638349592766100000",
+        "imageId": "176365"
+      },
+      {
+        "name": "Desinfetante Dragão Pinho 5l",
+        "brand": "Dragão",
+        "link": "https://www.mercantilatacado.com.br/desinfetante-dragao-pinho-5l-1698110003/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/176722/654a36fb75d9096810e2dae9.jpg?v=638349593589400000",
+        "imageId": "176722"
+      },
+      {
+        "name": "Desinfetante Dragão Eucaliptus 5l",
+        "brand": "Dragão",
+        "link": "https://www.mercantilatacado.com.br/desinfetante-dragao-eucaliptus-5l-1698110001/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/176743/654a36fb75d9096810e2dae7.jpg?v=638349593590470000",
+        "imageId": "176743"
+      },
+      {
+        "name": "Desinfetante Dragão Lavanda 5l",
+        "brand": "Dragão",
+        "link": "https://www.mercantilatacado.com.br/desinfetante-dragao-lavanda-5l-1698110002/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/176748/654a36fb75d9096810e2dae8.jpg?v=638349593590470000",
+        "imageId": "176748"
+      },
+      {
+        "name": "Desinfetante Dragão Campestre 1l",
+        "brand": "Dragão",
+        "link": "https://www.mercantilatacado.com.br/desinfetante-dragao-campestre-1l-1711241004/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/176930/654a372475d9096810e2db78.jpg?v=638349594009300000",
+        "imageId": "176930"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/Desinfetante%20Drag%C3%A3o?_q=Desinfetante%20Drag%C3%A3o&map=ft"
+  },
+  "leite condensado moça semidesnatado 395g": {
+    "products": [
+      {
+        "name": "Leite Condensado Moça Semidesnatado Tetra Pak 395g",
+        "brand": "Moça",
+        "link": "https://www.mercantilatacado.com.br/leite-condensado-moca-semidesnatado-tetra-pak-395g/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/169845/654a311075d9096810e2c015.jpg?v=638349578444870000",
+        "imageId": "169845"
+      },
+      {
+        "name": "Leite Condensado CCGL Semidesnatado 395g",
+        "brand": "Ccgl",
+        "link": "https://www.mercantilatacado.com.br/leite-condensado-ccgl-semidesnatado-395g/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/174494/654a350d75d9096810e2d1ce.jpg?v=638349588655670000",
+        "imageId": "174494"
+      },
+      {
+        "name": "Leite Condensado Moça Nestlé Lata 395g",
+        "brand": "Moça",
+        "link": "https://www.mercantilatacado.com.br/leite-condensado-moca-nestle-lata-395g/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/188731/65d62389e63771547855205e.jpg?v=638441294177370000",
+        "imageId": "188731"
+      },
+      {
+        "name": "Leite Condensado Bendito Semidesnatado Tetra Pak 395g",
+        "brand": "Bendito",
+        "link": "https://www.mercantilatacado.com.br/leite-condensado-bendito-semidesnatado-tetra-pak-395g-281188/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/174187/654a34d075d9096810e2d0b9.jpg?v=638349588042870000",
+        "imageId": "174187"
+      },
+      {
+        "name": "Leite Condensado Itambé Lata 395g",
+        "brand": "Itambé",
+        "link": "https://www.mercantilatacado.com.br/leite-condensado-itambe-lata-395g/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/188168/6579c6b89c832d2283d11aa7.jpg?v=638380763454270000",
+        "imageId": "188168"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/Leite%20Condensado%20Mo%C3%A7a%20Semidesnatado%E2%80%A8395g?_q=Leite%20Condensado%20Mo%C3%A7a%20Semidesnatado%E2%80%A8395g&map=ft"
+  },
+  "vinagre de álcool gota 500ml": {
+    "products": [
+      {
+        "name": "Vinagre de Álcool Gota 500ml",
+        "brand": "Maratá",
+        "link": "https://www.mercantilatacado.com.br/vinagre-de-alcool-gota-500ml/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/170648/654a31b775d9096810e2c2d4.jpg?v=638349580105230000",
+        "imageId": "170648"
+      },
+      {
+        "name": "Vinagre de Álcool Gota 750ml",
+        "brand": "Maratá",
+        "link": "https://www.mercantilatacado.com.br/vinagre-de-alcool-gota-750ml/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/170615/654a31b775d9096810e2c2d5.jpg?v=638349580104130000",
+        "imageId": "170615"
+      },
+      {
+        "name": "Vinagre de Álcool Maratá 500ml",
+        "brand": "Maratá",
+        "link": "https://www.mercantilatacado.com.br/vinagre-de-alcool-marata-500ml/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/170027/654a313a75d9096810e2c085.jpg?v=638349578858270000",
+        "imageId": "170027"
+      },
+      {
+        "name": "Vinagre de Álcool Figueira 500ml",
+        "brand": "Figueira",
+        "link": "https://www.mercantilatacado.com.br/vinagre-de-alcool-figueira-500ml/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/170023/654a313a75d9096810e2c095.jpg?v=638349578858100000",
+        "imageId": "170023"
+      },
+      {
+        "name": "Vinagre de Álcool Palmeiron 500ml",
+        "brand": "Palmeiron",
+        "link": "https://www.mercantilatacado.com.br/vinagre-de-alcool-palmeiron-500ml-281906/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/174952/654a357475d9096810e2d3c3.jpg?v=638349589679900000",
+        "imageId": "174952"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/Vinagre%20de%20%C3%81lcool%20Gota%E2%80%A8500ml?_q=Vinagre%20de%20%C3%81lcool%20Gota%E2%80%A8500ml&map=ft"
+  },
+  "carne de sol coxão mole": {
+    "products": [
+      {
+        "name": "Carne de Sol Coxão Mole Peça",
+        "brand": "Sem Marca",
+        "link": "https://www.mercantilatacado.com.br/carne-de-sol-coxao-mole-peca-1194343/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/189222/65e2107738ada1d5aeed63ee.jpg?v=638449109720630000",
+        "imageId": "189222"
+      },
+      {
+        "name": "Carne do Sol Coxão Mole Bovino Pedaço",
+        "brand": "Sem Marca",
+        "link": "https://www.mercantilatacado.com.br/carne-do-sol-coxao-mole-bovino-pedaco/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/191292/66f6c04e1a8776ed40b1e76e.jpg?v=638630439229370000",
+        "imageId": "191292"
+      },
+      {
+        "name": "Carne do Sol RJ Coxão Mole Peça",
+        "brand": "Sem Marca",
+        "link": "https://www.mercantilatacado.com.br/carne-do-sol-rj-coxao-mole-peca/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/173220/654a340375d9096810e2cd15.jpg?v=638349585989730000",
+        "imageId": "173220"
+      },
+      {
+        "name": "Carne de Sol Boni Coxão Mole Inteiro",
+        "brand": "Sem Marca",
+        "link": "https://www.mercantilatacado.com.br/carne-de-sol-boni-coxao-mole-inteiro/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/170962/654a31f475d9096810e2c43b.jpg?v=638349580724770000",
+        "imageId": "170962"
+      },
+      {
+        "name": "Carne do Sol Boni Coxão Mole Pedaço",
+        "brand": "Sem Marca",
+        "link": "https://www.mercantilatacado.com.br/carne-do-sol-boni-coxao-mole-pedaco/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/171154/654a321e75d9096810e2c4e7.jpg?v=638349581136100000",
+        "imageId": "171154"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/Carne%20de%20Sol%20Cox%C3%A3o%20Mole?_q=Carne%20de%20Sol%20Cox%C3%A3o%20Mole&map=ft"
+  },
+  "peito de frango guibon congelado": {
+    "products": [
+      {
+        "name": "Peito de Frango Guibon Congelado",
+        "brand": "Guibon",
+        "link": "https://www.mercantilatacado.com.br/peito-de-frango-guibon-congelado-1792282/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/174375/654a34f975d9096810e2d1bc.jpg?v=638349588449100000",
+        "imageId": "174375"
+      },
+      {
+        "name": "Peito de Frango Congelado",
+        "brand": "Sem Marca",
+        "link": "https://www.mercantilatacado.com.br/peito-de-frango-congelado-1448795/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/171875/654a32e275d9096810e2c7be.jpg?v=638349583101870000",
+        "imageId": "171875"
+      },
+      {
+        "name": "Peito de Frango Mauricéa Congelado",
+        "brand": "Mauricea",
+        "link": "https://www.mercantilatacado.com.br/peito-de-frango-mauricea-congelado-1195448/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/171427/654a327b75d9096810e2c5ec.jpg?v=638349582079970000",
+        "imageId": "171427"
+      },
+      {
+        "name": "Filé de Peito de Frango Mauricéa Congelado",
+        "brand": "Mauricea",
+        "link": "https://www.mercantilatacado.com.br/file-de-peito-de-frango-mauricea-congelado-278810/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/171366/654a326775d9096810e2c5c1.jpg?v=638349581883930000",
+        "imageId": "171366"
+      },
+      {
+        "name": "Filé de Peito de Frango Congelado",
+        "brand": "Sem Marca",
+        "link": "https://www.mercantilatacado.com.br/file-de-peito-de-frango-congelado-287143/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/171922/654a32e275d9096810e2c813.jpg?v=638349583103270000",
+        "imageId": "171922"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/Peito%20de%20Frango%20Guibon%20Congelado?_q=Peito%20de%20Frango%20Guibon%20Congelado&map=ft"
+  },
+  "detergente líquido teiú 500ml": {
+    "products": [
+      {
+        "name": "Detergente Líquido Teiú Maçã Squeeze 500ml",
+        "brand": "Teiu",
+        "link": "https://www.mercantilatacado.com.br/detergente-liquido-teiu-maca-squeeze-500ml-283087/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/176198/654a369475d9096810e2d8fa.jpg?v=638349592561700000",
+        "imageId": "176198"
+      },
+      {
+        "name": "Detergente Líquido Teiú Limão Squeeze 500ml",
+        "brand": "Teiu",
+        "link": "https://www.mercantilatacado.com.br/detergente-liquido-teiu-limao-squeeze-500ml/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/176197/654a369475d9096810e2d8fb.jpg?v=638349592561700000",
+        "imageId": "176197"
+      },
+      {
+        "name": "Detergente Líquido Teiú Clear Squeeze 500ml",
+        "brand": "Teiu",
+        "link": "https://www.mercantilatacado.com.br/detergente-liquido-teiu-clear-squeeze-500ml-283089/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/176249/654a369475d9096810e2d8fc.jpg?v=638349592563100000",
+        "imageId": "176249"
+      },
+      {
+        "name": "Detergente Líquido Teiú Coco Squeeze 500ml",
+        "brand": "Teiu",
+        "link": "https://www.mercantilatacado.com.br/detergente-liquido-teiu-coco-squeeze-500ml-283090/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/176260/654a369475d9096810e2d8fd.jpg?v=638349592563570000",
+        "imageId": "176260"
+      },
+      {
+        "name": "Detergente Líquido Atol Limão 500ml",
+        "brand": "Atol",
+        "link": "https://www.mercantilatacado.com.br/detergente-liquido-atol-limao-500ml/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/175803/654a362d75d9096810e2d724.jpg?v=638349591535530000",
+        "imageId": "175803"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/Detergente%20L%C3%ADquido%20Tei%C3%BA%20500ml?_q=Detergente%20L%C3%ADquido%20Tei%C3%BA%20500ml&map=ft"
+  },
+  "açúcar cristal bella in natura 800g": {
+    "products": [
+      {
+        "name": "Açúcar Cristal Bella In Natura 800g",
+        "brand": "Bella",
+        "link": "https://www.mercantilatacado.com.br/acucar-cristal-bella-in-natura-800g/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/167902/651f0626a8c782c9100ef1b6.jpg?v=638321288160200000",
+        "imageId": "167902"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/A%C3%A7%C3%BAcar%20Cristal%20Bella%20In%20Natura%E2%80%A8800g?_q=A%C3%A7%C3%BAcar%20Cristal%20Bella%20In%20Natura%E2%80%A8800g&map=ft"
+  },
+  "fígado bovino congelado": {
+    "products": [
+      {
+        "name": "Fígado Bovino Congelado Peça",
+        "brand": "Sem Marca",
+        "link": "https://www.mercantilatacado.com.br/figado-bovino-congelado-peca-1137753/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/171073/654a320975d9096810e2c450.jpg?v=638349580926970000",
+        "imageId": "171073"
+      },
+      {
+        "name": "Fígado Bovino Congelado Pedaço",
+        "brand": "Sem Marca",
+        "link": "https://www.mercantilatacado.com.br/figado-bovino-congelado-pedaco-1676563/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/172822/654a33b075d9096810e2cb8b.jpg?v=638349585152500000",
+        "imageId": "172822"
+      },
+      {
+        "name": "Bucho Bovino Congelado Peça",
+        "brand": "Sem Marca",
+        "link": "https://www.mercantilatacado.com.br/bucho-bovino-congelado-peca-1137751/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/171067/654a320975d9096810e2c44e.jpg?v=638349580926800000",
+        "imageId": "171067"
+      },
+      {
+        "name": "Cupim Bovino Congelado Peça",
+        "brand": "Sem Marca",
+        "link": "https://www.mercantilatacado.com.br/cupim-bovino-congelado-peca-1194400/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/171290/654a326775d9096810e2c5a9.jpg?v=638349581881100000",
+        "imageId": "171290"
+      },
+      {
+        "name": "Mocotó Bovino Congelado Peça",
+        "brand": "Sem Marca",
+        "link": "https://www.mercantilatacado.com.br/mocoto-bovino-congelado-peca-1137748/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/170950/654a31f475d9096810e2c44b.jpg?v=638349580724130000",
+        "imageId": "170950"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/F%C3%ADgado%20Bovino%20Congelado?_q=F%C3%ADgado%20Bovino%20Congelado&map=ft"
+  },
+  "cerveja heineken shot long neck 250ml": {
+    "products": [
+      {
+        "name": "Cerveja Heineken Shot Long Neck 250ml",
+        "brand": "Heineken",
+        "link": "https://www.mercantilatacado.com.br/cerveja-heineken-shot-long-neck-250ml/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/172083/654a330b75d9096810e2c8b1.jpg?v=638349583512300000",
+        "imageId": "172083"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/Cerveja%20Heineken%20Shot%20Long%20Neck%E2%80%A8250ml?_q=Cerveja%20Heineken%20Shot%20Long%20Neck%E2%80%A8250ml&map=ft"
+  },
+  "suco integral campo largo 1.35l": {
+    "products": [
+      {
+        "name": "Suco Integral Campo Largo Uva 1.35l",
+        "brand": "Campo Largo",
+        "link": "https://www.mercantilatacado.com.br/suco-integral-campo-largo-uva-1-35l/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/173478/654a342c75d9096810e2cdd0.jpg?v=638349586401170000",
+        "imageId": "173478"
+      },
+      {
+        "name": "Suco Integral Campo Largo Laranja 250ml",
+        "brand": "Campo Largo",
+        "link": "https://www.mercantilatacado.com.br/suco-integral-campo-largo-laranja-250ml/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/176989/654a373975d9096810e2dbd7.jpg?v=638349594205870000",
+        "imageId": "176989"
+      },
+      {
+        "name": "Suco Integral Campo Largo Laranja 1.350ml",
+        "brand": "Campo Largo",
+        "link": "https://www.mercantilatacado.com.br/suco-integral-campo-largo-laranja-1-350ml/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/173413/654a342c75d9096810e2cdcf.jpg?v=638349586397870000",
+        "imageId": "173413"
+      },
+      {
+        "name": "Suco Integral Campo Largo Uva Natural 1.5l",
+        "brand": "Campo Largo",
+        "link": "https://www.mercantilatacado.com.br/suco-integral-campo-largo-uva-natural-1-5l-201018/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/170620/654a31b775d9096810e2c2d9.jpg?v=638349580104300000",
+        "imageId": "170620"
+      },
+      {
+        "name": "Suco Integral Campo Largo Uva Tinto s/ Açúcar Garrafa 250ml",
+        "brand": "Campo Largo",
+        "link": "https://www.mercantilatacado.com.br/suco-integral-campo-largo-uva-tinto-s--acucar-garrafa-250ml/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/176977/654a373975d9096810e2dbd6.jpg?v=638349594205570000",
+        "imageId": "176977"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/Suco%20Integral%20Campo%20Largo%201.35L?_q=Suco%20Integral%20Campo%20Largo%201.35L&map=ft"
+  },
+  "flocão de milho novomilho 500g": {
+    "products": [
+      {
+        "name": "Flocão de Milho Novomilho 500g",
+        "brand": "Novomilho",
+        "link": "https://www.mercantilatacado.com.br/flocao-de-milho-novomilho-500g/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/169866/654a311075d9096810e2bff7.jpg?v=638349578445400000",
+        "imageId": "169866"
+      },
+      {
+        "name": "Flocos Milho Novomilho 500g",
+        "brand": "Novomilho",
+        "link": "https://www.mercantilatacado.com.br/flocos-milho-novomilho-500g/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/169854/654a311075d9096810e2c007.jpg?v=638349578445070000",
+        "imageId": "169854"
+      },
+      {
+        "name": "Flocão de Milho Vitamilho 500g",
+        "brand": "Vitamilho",
+        "link": "https://www.mercantilatacado.com.br/flocao-de-milho-vitamilho-500g-277516/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/169855/654a311075d9096810e2bfdb.jpg?v=638349578445070000",
+        "imageId": "169855"
+      },
+      {
+        "name": "Flocão de Milho Nordestino 500g",
+        "brand": "Nordestino",
+        "link": "https://www.mercantilatacado.com.br/flocao-de-milho-nordestino-500g/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/170618/654a31b775d9096810e2c2fa.jpg?v=638349580104300000",
+        "imageId": "170618"
+      },
+      {
+        "name": "Flocão de Milho Coringa 500g",
+        "brand": "Coringa",
+        "link": "https://www.mercantilatacado.com.br/flocao-de-milho-coringa-500g-277631/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/169950/654a312575d9096810e2c060.jpg?v=638349578656830000",
+        "imageId": "169950"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/Floc%C3%A3o%20de%20Milho%20Novomilho%E2%80%A8500g?_q=Floc%C3%A3o%20de%20Milho%20Novomilho%E2%80%A8500g&map=ft"
+  },
+  "vinagre de álcool gota 700ml": {
+    "products": [
+      {
+        "name": "Vinagre de Álcool Gota 500ml",
+        "brand": "Maratá",
+        "link": "https://www.mercantilatacado.com.br/vinagre-de-alcool-gota-500ml/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/170648/654a31b775d9096810e2c2d4.jpg?v=638349580105230000",
+        "imageId": "170648"
+      },
+      {
+        "name": "Vinagre de Álcool Gota 750ml",
+        "brand": "Maratá",
+        "link": "https://www.mercantilatacado.com.br/vinagre-de-alcool-gota-750ml/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/170615/654a31b775d9096810e2c2d5.jpg?v=638349580104130000",
+        "imageId": "170615"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/Vinagre%20de%20%C3%81lcool%20Gota%E2%80%A8700ml?_q=Vinagre%20de%20%C3%81lcool%20Gota%E2%80%A8700ml&map=ft"
+  },
+  "linguiça calabresa defumada perdigão": {
+    "products": [
+      {
+        "name": "Linguiça Calabresa Defumada Sadia Fracionada",
+        "brand": "Sadia",
+        "link": "https://www.mercantilatacado.com.br/linguica-calabresa-defumada-sadia-fracionada/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/188600/65cd1e9fb1fe0b2b810887cc.jpg?v=638435383355970000",
+        "imageId": "188600"
+      },
+      {
+        "name": "Linguiça Calabresa Defumada Seara Fracionada",
+        "brand": "Seara",
+        "link": "https://www.mercantilatacado.com.br/linguica-calabresa-defumada-seara-fracionada/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/171521/654a329075d9096810e2c66d.jpg?v=638349582278870000",
+        "imageId": "171521"
+      },
+      {
+        "name": "Linguiça Calabresa Defumada Sadia Pacote 2,5kg",
+        "brand": "Sadia",
+        "link": "https://www.mercantilatacado.com.br/linguica-calabresa-defumada-sadia-pacote-2-5kg-168630/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/188601/65cd1ee4b1fe0b2b810887d4.jpg?v=638435384055870000",
+        "imageId": "188601"
+      },
+      {
+        "name": "Linguiça Calabresa Defumada Seara Pacote 2,5kg",
+        "brand": "Seara",
+        "link": "https://www.mercantilatacado.com.br/linguica-calabresa-defumada-seara-pacote-2-5kg/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/170906/654a31f475d9096810e2c440.jpg?v=638349580722730000",
+        "imageId": "170906"
+      },
+      {
+        "name": "Linguiça Calabresa Perdigão 1Kg",
+        "brand": "Perdigão",
+        "link": "https://www.mercantilatacado.com.br/linguica-calabresa-perdigao-1kg/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/190232/65ccfb161b5ed73a4948da3a.jpg?v=638470834169970000",
+        "imageId": "190232"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/Lingui%C3%A7a%20Calabresa%20Defumada%20Perdig%C3%A3o?_q=Lingui%C3%A7a%20Calabresa%20Defumada%20Perdig%C3%A3o&map=ft"
+  },
+  "filé de peito de frango  congelado": {
+    "products": [
+      {
+        "name": "Filé de Peito de Frango Congelado",
+        "brand": "Sem Marca",
+        "link": "https://www.mercantilatacado.com.br/file-de-peito-de-frango-congelado-287143/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/171922/654a32e275d9096810e2c813.jpg?v=638349583103270000",
+        "imageId": "171922"
+      },
+      {
+        "name": "Peito de Frango Congelado",
+        "brand": "Sem Marca",
+        "link": "https://www.mercantilatacado.com.br/peito-de-frango-congelado-1448795/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/171875/654a32e275d9096810e2c7be.jpg?v=638349583101870000",
+        "imageId": "171875"
+      },
+      {
+        "name": "Filé de Peito de Frango Guibon",
+        "brand": "Guibon",
+        "link": "https://www.mercantilatacado.com.br/file-de-peito-de-frango-guibon/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/172269/654a333575d9096810e2c942.jpg?v=638349583929300000",
+        "imageId": "172269"
+      },
+      {
+        "name": "Filé de Peito de Frango Mauricéa Congelado",
+        "brand": "Mauricea",
+        "link": "https://www.mercantilatacado.com.br/file-de-peito-de-frango-mauricea-congelado-278810/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/171366/654a326775d9096810e2c5c1.jpg?v=638349581883930000",
+        "imageId": "171366"
+      },
+      {
+        "name": "Filé de Peito de Frango Sadia Bandeja Congelado 1Kg",
+        "brand": "Sadia",
+        "link": "https://www.mercantilatacado.com.br/file-de-peito-de-frango-sadia-bandeja-congelado-1kg/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/188500/65cd0b4fb1fe0b2b8108875f.jpg?v=638435333923300000",
+        "imageId": "188500"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/Fil%C3%A9%20de%20Peito%20de%20Frango%20%E2%80%A8Congelado?_q=Fil%C3%A9%20de%20Peito%20de%20Frango%20%E2%80%A8Congelado&map=ft"
+  },
+  "ninho 380g": {
+    "products": [
+      {
+        "name": "Ninho Instantâneo 380g Lata",
+        "brand": "Ninho",
+        "link": "https://www.mercantilatacado.com.br/ninho-instantaneo-380g-lata/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/174002/654a34a775d9096810e2d01c.jpg?v=638349587625600000",
+        "imageId": "174002"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/Ninho%20380g?_q=Ninho%20380g&map=ft"
+  },
+  "leite em pó ninho integral": {
+    "products": [
+      {
+        "name": "Leite em Pó Ninho Integral Pacote 975g",
+        "brand": "Ninho",
+        "link": "https://www.mercantilatacado.com.br/leite-em-po-ninho-integral-pacote-975g-1862745/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/190668/6633d934254681ffec67092d.jpg?v=638502707757200000",
+        "imageId": "190668"
+      },
+      {
+        "name": "Leite em Pó Ninho Integral Forti+ Lata 380g",
+        "brand": "Ninho",
+        "link": "https://www.mercantilatacado.com.br/leite-em-po-ninho-integral-forti--lata-380g/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/174429/654a34f975d9096810e2d1b5.jpg?v=638349588452000000",
+        "imageId": "174429"
+      },
+      {
+        "name": "Leite em Pó Ninho Integral Instantâneo Lata 380g",
+        "brand": "Ninho",
+        "link": "https://www.mercantilatacado.com.br/leite-em-po-ninho-integral-instantaneo-lata-380g-276437/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/191023/66914a54824a588d9d72f381.jpg?v=638563945846900000",
+        "imageId": "191023"
+      },
+      {
+        "name": "Leite em Pó Ninho Integral Instantâneo Pacote 750g",
+        "brand": "Ninho",
+        "link": "https://www.mercantilatacado.com.br/leite-em-po-ninho-integral-instantaneo-pacote-750g-1861743/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/190420/6619a161e6ff1c2566db924f.jpg?v=638485525557830000",
+        "imageId": "190420"
+      },
+      {
+        "name": "Leite em Pó Ccgl Integral Pacote 200g",
+        "brand": "Ccgl",
+        "link": "https://www.mercantilatacado.com.br/leite-em-po-ccgl-integral-pacote-200g/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/171514/654a329075d9096810e2c694.jpg?v=638349582278530000",
+        "imageId": "171514"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/Leite%20em%20P%C3%B3%20Ninho%20Integral?_q=Leite%20em%20P%C3%B3%20Ninho%20Integral&map=ft"
+  },
+  "cerveja amstel lager premium puro malte 350ml": {
+    "products": [
+      {
+        "name": "Cerveja Amstel Lager Premium Puro Malte Lata 350ml",
+        "brand": "Amstel",
+        "link": "https://www.mercantilatacado.com.br/cerveja-amstel-lager-premium-puro-malte-lata-350ml/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/168121/65318ad27de8288d00899aff.jpg?v=638333424284070000",
+        "imageId": "168121"
+      },
+      {
+        "name": "Cerveja Heineken Lager Premium Puro Malte Lata 350ml",
+        "brand": "Heineken",
+        "link": "https://www.mercantilatacado.com.br/cerveja-heineken-lager-premium-puro-malte-lata-350ml/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/168402/65382cf8d3712b6537c71108.jpg?v=638337771563130000",
+        "imageId": "168402"
+      },
+      {
+        "name": "Cerveja Heineken Lager Premium Puro Malte Zero Álcool Lata 350ml",
+        "brand": "Heineken",
+        "link": "https://www.mercantilatacado.com.br/cerveja-heineken-lager-premium-puro-malte-zero-alcool-lata-350ml/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/168369/65382cf8d3712b6537c7113f.jpg?v=638337771562670000",
+        "imageId": "168369"
+      },
+      {
+        "name": "Cerveja Amstel Lager Puro Malte Lata 350ml c/ 18 unid",
+        "brand": "Amstel",
+        "link": "https://www.mercantilatacado.com.br/cerveja-amstel-lager-puro-malte-lata-350ml-c--18-unid/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/175088/654a358975d9096810e2d429.jpg?v=638349589891900000",
+        "imageId": "175088"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/Cerveja%20Amstel%20Lager%20Premium%20Puro%20Malte%E2%80%A8350ml?_q=Cerveja%20Amstel%20Lager%20Premium%20Puro%20Malte%E2%80%A8350ml&map=ft"
+  },
+  "frango gujão fresquinho": {
+    "products": [
+      {
+        "name": "Frango Inteiro Gujão Fresquinho",
+        "brand": "Gujao",
+        "link": "https://www.mercantilatacado.com.br/frango-inteiro-gujao-fresquinho-1634578/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/172463/654a335e75d9096810e2ca27.jpg?v=638349584333270000",
+        "imageId": "172463"
+      },
+      {
+        "name": "Frango Gujão Congelado",
+        "brand": "Gujao",
+        "link": "https://www.mercantilatacado.com.br/frango-gujao-congelado/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/170902/654a31f475d9096810e2c436.jpg?v=638349580722730000",
+        "imageId": "170902"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/Frango%20Guj%C3%A3o%20Fresquinho?_q=Frango%20Guj%C3%A3o%20Fresquinho&map=ft"
+  },
+  "macarrão  petyan  espaguete 400g": {
+    "products": [
+      {
+        "name": "Macarrão Petyan Espaguete 400g",
+        "brand": "Petyan",
+        "link": "https://www.mercantilatacado.com.br/macarrao-petyan-espaguete-400g/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/174979/654a357475d9096810e2d3d2.jpg?v=638349589681000000",
+        "imageId": "174979"
+      },
+      {
+        "name": "Macarrão Spaguetto Espaguete 400g",
+        "brand": "Spaguetto",
+        "link": "https://www.mercantilatacado.com.br/macarrao-spaguetto-espaguete-400g-281916/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/189643/65eb2c9609c75d68f086c38b.jpg?v=638455079944630000",
+        "imageId": "189643"
+      },
+      {
+        "name": "Macarrão Pilar Espaguete Fino Pacote 400g",
+        "brand": "Pilar",
+        "link": "https://www.mercantilatacado.com.br/macarrao-pilar-espaguete-fino-pacote-400g/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/174904/654a355f75d9096810e2d383.jpg?v=638349589476200000",
+        "imageId": "174904"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/Macarr%C3%A3o%20%E2%80%A8Petyan%20%E2%80%A8Espaguete%E2%80%A8400g?_q=Macarr%C3%A3o%20%E2%80%A8Petyan%20%E2%80%A8Espaguete%E2%80%A8400g&map=ft"
+  },
+  "filezinho sassami de frango congelado sadia 1kg": {
+    "products": [
+      {
+        "name": "Filezinho Sassami de Frango Congelado Sadia 1Kg",
+        "brand": "Sadia",
+        "link": "https://www.mercantilatacado.com.br/filezinho-sassami-de-frango-congelado-sadia-1kg/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/188517/65cd1025b1fe0b2b81088770.jpg?v=638435346294470000",
+        "imageId": "188517"
+      },
+      {
+        "name": "Filezinho Sassami de Frango Avivar Bandeja Congelado 1Kg",
+        "brand": "Avivar",
+        "link": "https://www.mercantilatacado.com.br/filezinho-sassami-de-frango-avivar-bandeja-congelado-1kg/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/189620/65eb2c9609c75d68f086c3a8.jpg?v=638455079943870000",
+        "imageId": "189620"
+      },
+      {
+        "name": "Frango a Passarinho Congelado Sadia 1Kg",
+        "brand": "Sadia",
+        "link": "https://www.mercantilatacado.com.br/frango-a-passarinho-congelado-sadia-1kg-136834/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/190791/663e65cfd6cb4953d65b3ac7.jpg?v=638509621337270000",
+        "imageId": "190791"
+      },
+      {
+        "name": "Filezinho de Frango Sassami Perdigão Bandeja 1Kg",
+        "brand": "Perdigão",
+        "link": "https://www.mercantilatacado.com.br/filezinho-de-frango-sassami-perdigao-bandeja-1kg/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/188441/65ccfc991b5ed73a4948da4a.jpg?v=638435296258430000",
+        "imageId": "188441"
+      },
+      {
+        "name": "Filezinho de Frango Sadia Sassami Tempemperado 1Kg",
+        "brand": "Sadia",
+        "link": "https://www.mercantilatacado.com.br/filezinho-de-frango-sadia-sassami-tempemperado-1kg/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/188518/65cd1031b1fe0b2b81088771.jpg?v=638435346425130000",
+        "imageId": "188518"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/Filezinho%20Sassami%20de%20Frango%20Congelado%20Sadia%E2%80%A81Kg?_q=Filezinho%20Sassami%20de%20Frango%20Congelado%20Sadia%E2%80%A81Kg&map=ft"
+  },
+  "arroz parboilizado emoções tipo2 500g": {
+    "products": [
+      {
+        "name": "Arroz Parboilizado Emoções Tipo2 1Kg",
+        "brand": "Emocoes",
+        "link": "https://www.mercantilatacado.com.br/arroz-parboilizado-emocoes-tipo2-1kg-277911/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/170448/654a318d75d9096810e2c247.jpg?v=638349579697630000",
+        "imageId": "170448"
+      },
+      {
+        "name": "Arroz Parboilizado Elite Tipo1 1Kg",
+        "brand": "Elite",
+        "link": "https://www.mercantilatacado.com.br/arroz-parboilizado-elite-tipo1-1kg-280680/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/173574/654a344075d9096810e2ce6c.jpg?v=638349586607870000",
+        "imageId": "173574"
+      },
+      {
+        "name": "Arroz Parboilizado Urbano Tipo1 1Kg",
+        "brand": "Urbano",
+        "link": "https://www.mercantilatacado.com.br/arroz-parboilizado-urbano-tipo1-1kg/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/170044/654a313a75d9096810e2c09a.jpg?v=638349578858900000",
+        "imageId": "170044"
+      },
+      {
+        "name": "Arroz Parboilizado Camil Tipo1 1Kg",
+        "brand": "Camil",
+        "link": "https://www.mercantilatacado.com.br/arroz-parboilizado-camil-tipo1-1kg/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/169515/654a2d65bd028ce2aa2874d8.jpg?v=638349569057330000",
+        "imageId": "169515"
+      },
+      {
+        "name": "Arroz Parboilizado Pop Tipo 2 1Kg",
+        "brand": "Pop",
+        "link": "https://www.mercantilatacado.com.br/arroz-parboilizado-pop-tipo-2-1kg/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/172586/654a337275d9096810e2ca75.jpg?v=638349584541270000",
+        "imageId": "172586"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/Arroz%20Parboilizado%20Emo%C3%A7%C3%B5es%20Tipo2%E2%80%A8500g?_q=Arroz%20Parboilizado%20Emo%C3%A7%C3%B5es%20Tipo2%E2%80%A8500g&map=ft"
+  },
+  "filezinho de frango sassami perdigão 1kg": {
+    "products": [
+      {
+        "name": "Filezinho de Frango Sassami Perdigão Bandeja 1Kg",
+        "brand": "Perdigão",
+        "link": "https://www.mercantilatacado.com.br/filezinho-de-frango-sassami-perdigao-bandeja-1kg/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/188441/65ccfc991b5ed73a4948da4a.jpg?v=638435296258430000",
+        "imageId": "188441"
+      },
+      {
+        "name": "Filezinho de Frango Sassami Copacol Congelado 1Kg",
+        "brand": "Copacol",
+        "link": "https://www.mercantilatacado.com.br/filezinho-de-frango-sassami-copacol-congelado-1kg-173676/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/171415/654a327b75d9096810e2c5eb.jpg?v=638349582079200000",
+        "imageId": "171415"
+      },
+      {
+        "name": "Filezinho de Peito de Frango Sassami Perdigão 800g",
+        "brand": "Perdigão",
+        "link": "https://www.mercantilatacado.com.br/filezinho-de-peito-de-frango-sassami-perdigao-800g-202510/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/188440/65ccfc8d1b5ed73a4948da49.jpg?v=638435296138100000",
+        "imageId": "188440"
+      },
+      {
+        "name": "Filezinho de Frango Super Frango Sassami Iqf 1Kg",
+        "brand": "Super Frango",
+        "link": "https://www.mercantilatacado.com.br/filezinho-de-frango-super-frango-sassami-iqf-1kg/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/189305/65e2107738ada1d5aeed6403.jpg?v=638449109723930000",
+        "imageId": "189305"
+      },
+      {
+        "name": "Filezinho de Peito de Frango Sassami Seara 1Kg",
+        "brand": "Seara",
+        "link": "https://www.mercantilatacado.com.br/filezinho-de-peito-de-frango-sassami-seara-1kg/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/171052/654a320975d9096810e2c479.jpg?v=638349580926000000",
+        "imageId": "171052"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/Filezinho%20de%20Frango%20Sassami%20Perdig%C3%A3o%E2%80%A81Kg?_q=Filezinho%20de%20Frango%20Sassami%20Perdig%C3%A3o%E2%80%A81Kg&map=ft"
+  },
+  "óleo misto oliva santa isabel 500ml": {
+    "products": [
+      {
+        "name": "Óleo Misto Oliva Santa Isabel 500ml",
+        "brand": "Santa Isabel",
+        "link": "https://www.mercantilatacado.com.br/oleo-misto-oliva-santa-isabel-500ml/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/188007/656a396316f9e3b233b08edc.jpg?v=638370571268870000",
+        "imageId": "188007"
+      },
+      {
+        "name": "Óleo Misto Oliva Dom Gameiro 500ml",
+        "brand": "Dom Gameiro",
+        "link": "https://www.mercantilatacado.com.br/oleo-misto-oliva-dom-gameiro-500ml/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/172938/654a33c475d9096810e2cc02.jpg?v=638349585366670000",
+        "imageId": "172938"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/%C3%93leo%20Misto%20Oliva%20Santa%20Isabel%E2%80%A8500ml?_q=%C3%93leo%20Misto%20Oliva%20Santa%20Isabel%E2%80%A8500ml&map=ft"
+  },
+  "margarina cremosa deline sadia 250g": {
+    "products": [
+      {
+        "name": "Margarina Cremosa Deline Sadia 250g",
+        "brand": "Deline",
+        "link": "https://www.mercantilatacado.com.br/margarina-cremosa-deline-sadia-250g/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/170342/654a317875d9096810e2c1e1.jpg?v=638349579487800000",
+        "imageId": "170342"
+      },
+      {
+        "name": "Margarina Cremosa Deline Sadia c/ Sal 1Kg",
+        "brand": "Deline",
+        "link": "https://www.mercantilatacado.com.br/margarina-cremosa-deline-sadia-c--sal-1kg/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/188582/65cd1ab3b1fe0b2b810887b1.jpg?v=638435373317970000",
+        "imageId": "188582"
+      },
+      {
+        "name": "Margarina Cremosa Deline c/ Sal Pote 500g",
+        "brand": "Deline",
+        "link": "https://www.mercantilatacado.com.br/margarina-cremosa-deline-c--sal-pote-500g/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/170348/654a317875d9096810e2c1e2.jpg?v=638349579487970000",
+        "imageId": "170348"
+      },
+      {
+        "name": "Margarina Cremosa Deline c/ Sal Balde 3kg",
+        "brand": "Deline",
+        "link": "https://www.mercantilatacado.com.br/margarina-cremosa-deline-c--sal-balde-3kg/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/172410/654a334975d9096810e2c9da.jpg?v=638349584132270000",
+        "imageId": "172410"
+      },
+      {
+        "name": "Margarina Cremosa Deline Milho c/ Sal Pote 250g",
+        "brand": "Deline",
+        "link": "https://www.mercantilatacado.com.br/margarina-cremosa-deline-milho-c--sal-pote-250g1863909/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/191095/66914a54824a588d9d72f38c.jpg?v=638563945849870000",
+        "imageId": "191095"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/Margarina%20Cremosa%20Deline%20Sadia%E2%80%A8250g?_q=Margarina%20Cremosa%20Deline%20Sadia%E2%80%A8250g&map=ft"
+  },
+  "cerveja budweiser american lager long neck 330ml": {
+    "products": [
+      {
+        "name": "Cerveja Budweiser American Lager Long Neck 330ml",
+        "brand": "Budweiser",
+        "link": "https://www.mercantilatacado.com.br/cerveja-budweiser-american-lager-long-neck-330ml-244341/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/168358/65382cf8d3712b6537c71130.jpg?v=638337771566130000",
+        "imageId": "168358"
+      },
+      {
+        "name": "Cerveja Budweiser Zero Álcool Long Neck 330ml",
+        "brand": "Budweiser",
+        "link": "https://www.mercantilatacado.com.br/cerveja-budweiser-zero-alcool-long-neck-330ml/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/175190/654a359e75d9096810e2d4d1.jpg?v=638349590096670000",
+        "imageId": "175190"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/Cerveja%20Budweiser%20American%20Lager%20Long%20Neck%E2%80%A8330ml?_q=Cerveja%20Budweiser%20American%20Lager%20Long%20Neck%E2%80%A8330ml&map=ft"
+  },
+  "pizza seara  frango com catupiry 460g": {
+    "products": [
+      {
+        "name": "Pizza Seara Frango com Catupiry 460g",
+        "brand": "Seara",
+        "link": "https://www.mercantilatacado.com.br/pizza-seara-frango-com-catupiry-460g/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/171843/654a32ce75d9096810e2c762.jpg?v=638349582894400000",
+        "imageId": "171843"
+      },
+      {
+        "name": "Pizza Seara Lombo c/ Catupiry 460g",
+        "brand": "Seara",
+        "link": "https://www.mercantilatacado.com.br/pizza-seara-lombo-c--catupiry-460g-279163/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/171847/654a32ce75d9096810e2c766.jpg?v=638349582894570000",
+        "imageId": "171847"
+      },
+      {
+        "name": "Pizza Sadia Caixa Frango Catupiry 460g",
+        "brand": "Sadia",
+        "link": "https://www.mercantilatacado.com.br/pizza-sadia-caixa-frango-catupiry-460g/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/188633/65cd24dcb1fe0b2b81088804.jpg?v=638435399332530000",
+        "imageId": "188633"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/Pizza%20Seara%20%E2%80%A8Frango%20com%20Catupiry%E2%80%A8460g?_q=Pizza%20Seara%20%E2%80%A8Frango%20com%20Catupiry%E2%80%A8460g&map=ft"
+  },
+  "energético red bull edition tropical 250ml": {
+    "products": [
+      {
+        "name": "Energético Red Bull Edition Tropical Lata 250ml",
+        "brand": "Red Bull",
+        "link": "https://www.mercantilatacado.com.br/energetico-red-bull-edition-tropical-lata-250ml-205036/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/176452/654a36bd75d9096810e2d984.jpg?v=638349592965630000",
+        "imageId": "176452"
+      },
+      {
+        "name": "Energético Red Bull Edition Açaí Lata 250ml",
+        "brand": "Red Bull",
+        "link": "https://www.mercantilatacado.com.br/energetico-red-bull-edition-acai-lata-250ml/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/176469/654a36bd75d9096810e2d985.jpg?v=638349592966400000",
+        "imageId": "176469"
+      },
+      {
+        "name": "Energético Red Bull Edition Pitaya Lata 250ml",
+        "brand": "Red Bull",
+        "link": "https://www.mercantilatacado.com.br/energetico-red-bull-edition-pitaya-lata-250ml-267873/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/176428/654a36bd75d9096810e2d988.jpg?v=638349592964700000",
+        "imageId": "176428"
+      },
+      {
+        "name": "Energético Red Bull Edition Melancia Lata 250ml",
+        "brand": "Red Bull",
+        "link": "https://www.mercantilatacado.com.br/energetico-red-bull-edition-melancia-lata-250ml/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/176474/654a36bd75d9096810e2d987.jpg?v=638349592966570000",
+        "imageId": "176474"
+      },
+      {
+        "name": "Energético Red Bull Edition Coco e Açaí Lata 250ml",
+        "brand": "Red Bull",
+        "link": "https://www.mercantilatacado.com.br/energetico-red-bull-edition-coco-e-acai-lata-250ml-244343/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/176455/654a36bd75d9096810e2d986.jpg?v=638349592965630000",
+        "imageId": "176455"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/Energ%C3%A9tico%20Red%20Bull%20Edition%20Tropical%E2%80%A8250ml?_q=Energ%C3%A9tico%20Red%20Bull%20Edition%20Tropical%E2%80%A8250ml&map=ft"
+  },
+  "refrigerante guaraná antarctica 2l": {
+    "products": [
+      {
+        "name": "Refrigerante Guaraná Antarctica Lata 350ml",
+        "brand": "Antarctica",
+        "link": "https://www.mercantilatacado.com.br/refrigerante-guarana-antarctica-lata-350ml-135293/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/168710/653fe3aa752720c144887a1a.jpg?v=638342826764570000",
+        "imageId": "168710"
+      },
+      {
+        "name": "Refrigerante Guaraná Antarctica Pet 2l",
+        "brand": "Antarctica",
+        "link": "https://www.mercantilatacado.com.br/refrigerante-guarana-antarctica-pet-2l-135299/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/168738/653fe3aa752720c144887a18.jpg?v=638342826767530000",
+        "imageId": "168738"
+      },
+      {
+        "name": "Refrigerante Guaraná Antarctica Pet 2.5l",
+        "brand": "Antarctica",
+        "link": "https://www.mercantilatacado.com.br/refrigerante-guarana-antarctica-pet-2-5l/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/168702/653fe3aa752720c144887a34.jpg?v=638342826764400000",
+        "imageId": "168702"
+      },
+      {
+        "name": "Refrigerante Guaraná Antarctica Pet 200ml",
+        "brand": "Antarctica",
+        "link": "https://www.mercantilatacado.com.br/refrigerante-guarana-antarctica-pet-200ml/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/168737/653fe3aa752720c144887a6d.jpg?v=638342826767370000",
+        "imageId": "168737"
+      },
+      {
+        "name": "Refrigerante Guaraná Antarctica Pet 1l",
+        "brand": "Antarctica",
+        "link": "https://www.mercantilatacado.com.br/refrigerante-guarana-antarctica-pet-1l/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/168732/653fe3aa752720c144887a26.jpg?v=638342826765970000",
+        "imageId": "168732"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/Refrigerante%20Guaran%C3%A1%20Antarctica%E2%80%A82l?_q=Refrigerante%20Guaran%C3%A1%20Antarctica%E2%80%A82l&map=ft"
+  },
+  "azeite de oliva extra virgem borges 500ml": {
+    "products": [
+      {
+        "name": "Azeite de Oliva Extra Virgem Borges 500ml",
+        "brand": "Borges",
+        "link": "https://www.mercantilatacado.com.br/azeite-de-oliva-extra-virgem-borges-500ml/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/169416/654a2d50bd028ce2aa287457.jpg?v=638349568917170000",
+        "imageId": "169416"
+      },
+      {
+        "name": "Azeite de Oliva Extra Virgem Borges 250ml",
+        "brand": "Borges",
+        "link": "https://www.mercantilatacado.com.br/azeite-de-oliva-extra-virgem-borges-250ml/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/169381/654a2d50bd028ce2aa28748d.jpg?v=638349568916100000",
+        "imageId": "169381"
+      },
+      {
+        "name": "Azeite de Oliva Extra Virgem Cocinero 500ml",
+        "brand": "Cocinero",
+        "link": "https://www.mercantilatacado.com.br/azeite-de-oliva-extra-virgem-cocinero-500ml/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/169822/654a311075d9096810e2bff8.jpg?v=638349578443770000",
+        "imageId": "169822"
+      },
+      {
+        "name": "Azeite de Oliva Extra Virgem Mueloliva 500ml",
+        "brand": "Mueloliva",
+        "link": "https://www.mercantilatacado.com.br/azeite-de-oliva-extra-virgem-mueloliva-500ml/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/170639/654a31b775d9096810e2c2e2.jpg?v=638349580104900000",
+        "imageId": "170639"
+      },
+      {
+        "name": "Azeite de Oliva Extra Virgem Sanmarco 500ml",
+        "brand": "Sanmarco",
+        "link": "https://www.mercantilatacado.com.br/azeite-de-oliva-extra-virgem-sanmarco-500ml-280662/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/173578/654a344075d9096810e2ce52.jpg?v=638349586608170000",
+        "imageId": "173578"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/Azeite%20de%20Oliva%20Extra%20Virgem%20Borges%E2%80%A8500ml?_q=Azeite%20de%20Oliva%20Extra%20Virgem%20Borges%E2%80%A8500ml&map=ft"
+  },
+  "farinha de mandioca boa dmais amarela 1kg": {
+    "products": [
+      {
+        "name": "Farinha de Mandioca Boa Dmais Amarela 1Kg",
+        "brand": "Dmais",
+        "link": "https://www.mercantilatacado.com.br/farinha-de-mandioca-boa-dmais-amarela-1kg/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/171554/654a329075d9096810e2c699.jpg?v=638349582280270000",
+        "imageId": "171554"
+      },
+      {
+        "name": "Farinha de Mandioca Boa Dmais Branca 1Kg",
+        "brand": "Dmais",
+        "link": "https://www.mercantilatacado.com.br/farinha-de-mandioca-boa-dmais-branca-1kg/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/171573/654a32a575d9096810e2c69a.jpg?v=638349582483870000",
+        "imageId": "171573"
+      },
+      {
+        "name": "Farinha de Mandioca Confiança Amarela 1Kg",
+        "brand": "Confianca",
+        "link": "https://www.mercantilatacado.com.br/farinha-de-mandioca-confianca-amarela-1kg/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/173008/654a33d975d9096810e2cc73.jpg?v=638349585579200000",
+        "imageId": "173008"
+      },
+      {
+        "name": "Farinha Mandioca Confiança Amarela 1Kg",
+        "brand": "Confianca",
+        "link": "https://www.mercantilatacado.com.br/farinha-mandioca-confianca-amarela-1kg/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/173057/654a33d975d9096810e2cc74.jpg?v=638349585580600000",
+        "imageId": "173057"
+      },
+      {
+        "name": "Farinha de Mandioca Arco Verde Amarela 1Kg",
+        "brand": "Arco Verde",
+        "link": "https://www.mercantilatacado.com.br/farinha-de-mandioca-arco-verde-amarela-1kg/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/171292/654a326775d9096810e2c574.jpg?v=638349581881270000",
+        "imageId": "171292"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/Farinha%20de%20Mandioca%20Boa%20Dmais%20Amarela%E2%80%A81Kg?_q=Farinha%20de%20Mandioca%20Boa%20Dmais%20Amarela%E2%80%A81Kg&map=ft"
+  },
+  "frango gujão fresquinho kg": {
+    "products": [
+      {
+        "name": "Frango Inteiro Gujão Fresquinho",
+        "brand": "Gujao",
+        "link": "https://www.mercantilatacado.com.br/frango-inteiro-gujao-fresquinho-1634578/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/172463/654a335e75d9096810e2ca27.jpg?v=638349584333270000",
+        "imageId": "172463"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/Frango%20Guj%C3%A3o%20Fresquinho%E2%80%A8Kg?_q=Frango%20Guj%C3%A3o%20Fresquinho%E2%80%A8Kg&map=ft"
+  },
+  "macarrão spaguetto espaguete 400g": {
+    "products": [
+      {
+        "name": "Macarrão Spaguetto Espaguete 400g",
+        "brand": "Spaguetto",
+        "link": "https://www.mercantilatacado.com.br/macarrao-spaguetto-espaguete-400g-281916/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/189643/65eb2c9609c75d68f086c38b.jpg?v=638455079944630000",
+        "imageId": "189643"
+      },
+      {
+        "name": "Macarrão Petyan Espaguete 400g",
+        "brand": "Petyan",
+        "link": "https://www.mercantilatacado.com.br/macarrao-petyan-espaguete-400g/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/174979/654a357475d9096810e2d3d2.jpg?v=638349589681000000",
+        "imageId": "174979"
+      },
+      {
+        "name": "Macarrão Pilar Espaguete Fino Pacote 400g",
+        "brand": "Pilar",
+        "link": "https://www.mercantilatacado.com.br/macarrao-pilar-espaguete-fino-pacote-400g/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/174904/654a355f75d9096810e2d383.jpg?v=638349589476200000",
+        "imageId": "174904"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/Macarr%C3%A3o%20Spaguetto%20Espaguete%E2%80%A8400g?_q=Macarr%C3%A3o%20Spaguetto%20Espaguete%E2%80%A8400g&map=ft"
+  },
+  "linguiça calabresa defumada sadia 2,5kg": {
+    "products": [
+      {
+        "name": "Linguiça Calabresa Defumada Sadia Fracionada",
+        "brand": "Sadia",
+        "link": "https://www.mercantilatacado.com.br/linguica-calabresa-defumada-sadia-fracionada/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/188600/65cd1e9fb1fe0b2b810887cc.jpg?v=638435383355970000",
+        "imageId": "188600"
+      },
+      {
+        "name": "Linguiça Calabresa Defumada Sadia Pacote 2,5kg",
+        "brand": "Sadia",
+        "link": "https://www.mercantilatacado.com.br/linguica-calabresa-defumada-sadia-pacote-2-5kg-168630/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/188601/65cd1ee4b1fe0b2b810887d4.jpg?v=638435384055870000",
+        "imageId": "188601"
+      },
+      {
+        "name": "Linguiça Calabresa Defumada Seara Fracionada",
+        "brand": "Seara",
+        "link": "https://www.mercantilatacado.com.br/linguica-calabresa-defumada-seara-fracionada/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/171521/654a329075d9096810e2c66d.jpg?v=638349582278870000",
+        "imageId": "171521"
+      },
+      {
+        "name": "Linguiça Calabresa Defumada Seara Pacote 2,5kg",
+        "brand": "Seara",
+        "link": "https://www.mercantilatacado.com.br/linguica-calabresa-defumada-seara-pacote-2-5kg/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/170906/654a31f475d9096810e2c440.jpg?v=638349580722730000",
+        "imageId": "170906"
+      },
+      {
+        "name": "Linguiça Calabresa Sadia 1Kg",
+        "brand": "Sadia",
+        "link": "https://www.mercantilatacado.com.br/linguica-calabresa-sadia-1kg/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/188581/65cd1a50b1fe0b2b810887b0.jpg?v=638435372327200000",
+        "imageId": "188581"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/Lingui%C3%A7a%20Calabresa%20Defumada%20Sadia%202%2C5kg?_q=Lingui%C3%A7a%20Calabresa%20Defumada%20Sadia%202%2C5kg&map=ft"
+  },
+  "farinha de trigo sarandi especial 1kg": {
+    "products": [
+      {
+        "name": "Farinha de Trigo Sarandi Especial 1Kg",
+        "brand": "Sarandi",
+        "link": "https://www.mercantilatacado.com.br/farinha-de-trigo-sarandi-especial-1kg-277921/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/170435/654a318d75d9096810e2c256.jpg?v=638349579697170000",
+        "imageId": "170435"
+      },
+      {
+        "name": "Farinha de Trigo Sarandi Especial 25Kg",
+        "brand": "Sarandi",
+        "link": "https://www.mercantilatacado.com.br/farinha-de-trigo-sarandi-especial-25kg/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/170875/654a31e075d9096810e2c3c2.jpg?v=638349580514500000",
+        "imageId": "170875"
+      },
+      {
+        "name": "Farinha de Trigo Brandini Especial 1Kg",
+        "brand": "Brandini",
+        "link": "https://www.mercantilatacado.com.br/farinha-de-trigo-brandini-especial-1kg/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/170152/654a314f75d9096810e2c10d.jpg?v=638349579068600000",
+        "imageId": "170152"
+      },
+      {
+        "name": "Farinha de Trigo Sarandi c/ Fermento 1Kg",
+        "brand": "Sarandi",
+        "link": "https://www.mercantilatacado.com.br/farinha-de-trigo-sarandi-c--fermento-1kg-277922/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/170424/654a318d75d9096810e2c257.jpg?v=638349579696700000",
+        "imageId": "170424"
+      },
+      {
+        "name": "Farinha de Trigo Dona Benta Especial 1Kg",
+        "brand": "Dona Benta",
+        "link": "https://www.mercantilatacado.com.br/farinha-de-trigo-dona-benta-especial-1kg/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/169623/654a2d7abd028ce2aa287514.jpg?v=638349569268330000",
+        "imageId": "169623"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/Farinha%20de%20Trigo%20Sarandi%20Especial%E2%80%A81Kg?_q=Farinha%20de%20Trigo%20Sarandi%20Especial%E2%80%A81Kg&map=ft"
+  },
+  "linguiça calabresa defumada sadia kg": {
+    "products": [
+      {
+        "name": "Linguiça Calabresa Defumada Sadia Fracionada",
+        "brand": "Sadia",
+        "link": "https://www.mercantilatacado.com.br/linguica-calabresa-defumada-sadia-fracionada/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/188600/65cd1e9fb1fe0b2b810887cc.jpg?v=638435383355970000",
+        "imageId": "188600"
+      },
+      {
+        "name": "Linguiça Calabresa Defumada Sadia Pacote 2,5kg",
+        "brand": "Sadia",
+        "link": "https://www.mercantilatacado.com.br/linguica-calabresa-defumada-sadia-pacote-2-5kg-168630/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/188601/65cd1ee4b1fe0b2b810887d4.jpg?v=638435384055870000",
+        "imageId": "188601"
+      },
+      {
+        "name": "Linguiça Calabresa Defumada Seara Fracionada",
+        "brand": "Seara",
+        "link": "https://www.mercantilatacado.com.br/linguica-calabresa-defumada-seara-fracionada/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/171521/654a329075d9096810e2c66d.jpg?v=638349582278870000",
+        "imageId": "171521"
+      },
+      {
+        "name": "Linguiça Calabresa Defumada Seara Pacote 2,5kg",
+        "brand": "Seara",
+        "link": "https://www.mercantilatacado.com.br/linguica-calabresa-defumada-seara-pacote-2-5kg/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/170906/654a31f475d9096810e2c440.jpg?v=638349580722730000",
+        "imageId": "170906"
+      },
+      {
+        "name": "Linguiça Calabresa Sadia 1Kg",
+        "brand": "Sadia",
+        "link": "https://www.mercantilatacado.com.br/linguica-calabresa-sadia-1kg/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/188581/65cd1a50b1fe0b2b810887b0.jpg?v=638435372327200000",
+        "imageId": "188581"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/Lingui%C3%A7a%20Calabresa%20Defumada%20Sadia%20kg?_q=Lingui%C3%A7a%20Calabresa%20Defumada%20Sadia%20kg&map=ft"
+  },
+  "farinha de trigo sarandi especial": {
+    "products": [
+      {
+        "name": "Farinha de Trigo Sarandi Especial 1Kg",
+        "brand": "Sarandi",
+        "link": "https://www.mercantilatacado.com.br/farinha-de-trigo-sarandi-especial-1kg-277921/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/170435/654a318d75d9096810e2c256.jpg?v=638349579697170000",
+        "imageId": "170435"
+      },
+      {
+        "name": "Farinha de Trigo Sarandi Especial 25Kg",
+        "brand": "Sarandi",
+        "link": "https://www.mercantilatacado.com.br/farinha-de-trigo-sarandi-especial-25kg/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/170875/654a31e075d9096810e2c3c2.jpg?v=638349580514500000",
+        "imageId": "170875"
+      },
+      {
+        "name": "Farinha de Trigo Brandini Especial 1Kg",
+        "brand": "Brandini",
+        "link": "https://www.mercantilatacado.com.br/farinha-de-trigo-brandini-especial-1kg/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/170152/654a314f75d9096810e2c10d.jpg?v=638349579068600000",
+        "imageId": "170152"
+      },
+      {
+        "name": "Farinha de Trigo Senhorita Especial 1Kg",
+        "brand": "Senhorita",
+        "link": "https://www.mercantilatacado.com.br/farinha-de-trigo-senhorita-especial-1kg/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/170942/654a31f475d9096810e2c412.jpg?v=638349580723830000",
+        "imageId": "170942"
+      },
+      {
+        "name": "Farinha de Trigo Sarandi c/ Fermento 1Kg",
+        "brand": "Sarandi",
+        "link": "https://www.mercantilatacado.com.br/farinha-de-trigo-sarandi-c--fermento-1kg-277922/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/170424/654a318d75d9096810e2c257.jpg?v=638349579696700000",
+        "imageId": "170424"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/Farinha%20de%20Trigo%20Sarandi%20Especial?_q=Farinha%20de%20Trigo%20Sarandi%20Especial&map=ft"
   }
 }

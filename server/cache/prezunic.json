@@ -1025,5 +1025,777 @@
       }
     ],
     "searchUrl": "https://www.prezunic.com.br/Sobrecoxa%20Sadia%20800g?_q=Sobrecoxa%20Sadia%20800g&map=ft"
+  },
+  "alcatra": {
+    "products": [
+      {
+        "name": "Alcatra Bovina Extra Limpo",
+        "brand": "Stella",
+        "link": "https://www.prezunic.com.br/alcatra-bovina-extra-limpo/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/222015/692dbda8c3a3c7550cfdb166.jpg?v=639002021575530000",
+        "imageId": "222015"
+      },
+      {
+        "name": "Alcatra Bovina com Maminha Peça",
+        "brand": "Sem Marca",
+        "link": "https://www.prezunic.com.br/alcatra-bovina-com-maminha-peca/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/177732/653180940da8e3c7543b7838.jpg?v=638368810176570000",
+        "imageId": "177732"
+      },
+      {
+        "name": "Alcatra Bovina Porcionado Resfriado Peça",
+        "brand": "Sem Marca",
+        "link": "https://www.prezunic.com.br/alcatra-bovina-porcionado-resfriado-peca/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/214052/67eea3960738ebee5827d8bc.jpg?v=638810134204570000",
+        "imageId": "214052"
+      },
+      {
+        "name": "Alcatra Bovina Friboi Extra Limpa",
+        "brand": "Stella",
+        "link": "https://www.prezunic.com.br/alcatra-bovina-friboi-extra-limpa/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/204898/65733a42755aa436df87e315.jpg?v=638376471776500000",
+        "imageId": "204898"
+      },
+      {
+        "name": "Strognoff Alcatra Bovina Reserva",
+        "brand": "Stella",
+        "link": "https://www.prezunic.com.br/strognoff-alcatra-bovina-reserva/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/204892/65733a42755aa436df87e30b.jpg?v=638376471775670000",
+        "imageId": "204892"
+      }
+    ],
+    "searchUrl": "https://www.prezunic.com.br/alcatra?_q=alcatra&map=ft"
+  },
+  "coração da alcatra maturatta": {
+    "products": [
+      {
+        "name": "Coração da Alcatra Maturatta Peça",
+        "brand": "Maturatta",
+        "link": "https://www.prezunic.com.br/coracao-da-alcatra-maturatta-peca/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/181444/65678b131ef3739680761848.jpg?v=638368814312600000",
+        "imageId": "181444"
+      },
+      {
+        "name": "Coração Alcatra Maturatta Resfriado",
+        "brand": "Maturatta",
+        "link": "https://www.prezunic.com.br/coracao-alcatra-maturatta-resfriado/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/222092/692dc74501a1426fd89cb717.jpg?v=639002046143370000",
+        "imageId": "222092"
+      },
+      {
+        "name": "Coração da Alcatra Bovino Maturatta Congelado",
+        "brand": "Maturatta",
+        "link": "https://www.prezunic.com.br/coracao-da-alcatra-bovino-maturatta-congelado/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/209175/66198a149cd5c4b6872ded4a.jpg?v=638485465848970000",
+        "imageId": "209175"
+      },
+      {
+        "name": "Coração de Alcatra Bovino",
+        "brand": "Sem Marca",
+        "link": "https://www.prezunic.com.br/coracao-de-alcatra-bovino/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/220794/69029b5aa1d34d6bd3f2db8f.jpg?v=638973753278000000",
+        "imageId": "220794"
+      },
+      {
+        "name": "Coração da Alcatra Bovino Friboi 1953",
+        "brand": "Friboi",
+        "link": "https://www.prezunic.com.br/coracao-da-alcatra-bovino-friboi-1953/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/183416/65678cc21ef3739680761ff6.jpg?v=638368818616630000",
+        "imageId": "183416"
+      }
+    ],
+    "searchUrl": "https://www.prezunic.com.br/Cora%C3%A7%C3%A3o%20da%20Alcatra%20Maturatta?_q=Cora%C3%A7%C3%A3o%20da%20Alcatra%20Maturatta&map=ft"
+  },
+  "ovos grandes brancos iana": {
+    "products": [
+      {
+        "name": "Ovos Brancos Grandes Prezunic",
+        "brand": "Prezunic",
+        "link": "https://www.prezunic.com.br/ovos-brancos-grandes-prezunic/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/182196/65678bb81ef3739680761b16.jpg?v=638368815956600000",
+        "imageId": "182196"
+      },
+      {
+        "name": "Ovos Brancos Iana Grandes c/ 30 Unid",
+        "brand": "Iana",
+        "link": "https://www.prezunic.com.br/ovos-brancos-iana-grandes-c--30-unid-1729520/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/183334/65678cc21ef3739680761fd9.jpg?v=638368818612800000",
+        "imageId": "183334"
+      },
+      {
+        "name": "Ovos Brancos Grandes Mantiqueira com 30 Unidades",
+        "brand": "Mantiqueira",
+        "link": "https://www.prezunic.com.br/ovos-brancos-grandes-mantiqueira-com-30-unidades/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/180693/65678a6e1ef373968076154c.jpg?v=638368812659930000",
+        "imageId": "180693"
+      },
+      {
+        "name": "Ovos Brancos Iana Pvc Extra com 20 Unidades",
+        "brand": "Sem Marca",
+        "link": "https://www.prezunic.com.br/ovos-brancos-iana-pvc-extra-com-20-unidades/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/213128/67d431f3834fe94b621987da.jpg?v=638775564680900000",
+        "imageId": "213128"
+      },
+      {
+        "name": "Ovos Brancos Grandes Mantiqueira Happy Eggs com 30 Unidades",
+        "brand": "Mantiqueira",
+        "link": "https://www.prezunic.com.br/ovos-brancos-grandes-mantiqueira-happy-eggs-com-30-unidades/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/184960/65678e201ef3739680762612.jpg?v=638368822110370000",
+        "imageId": "184960"
+      }
+    ],
+    "searchUrl": "https://www.prezunic.com.br/Ovos%20Grandes%20Brancos%20iana?_q=Ovos%20Grandes%20Brancos%20iana&map=ft"
+  },
+  "azeite de oliva extra virgem gallo clássico 500ml": {
+    "products": [
+      {
+        "name": "Azeite de Oliva Extra Virgem Gallo Clássico Português 500ml",
+        "brand": "Gallo",
+        "link": "https://www.prezunic.com.br/azeite-de-oliva-extra-virgem-gallo-classico-portugues-500ml/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/178903/656788e41ef3739680760ea1.jpg?v=638368808726030000",
+        "imageId": "178903"
+      },
+      {
+        "name": "Azeite de Oliva Extra Virgem Deleyda Clássico Chileno Vidro 500ml",
+        "brand": "Deleyda",
+        "link": "https://www.prezunic.com.br/azeite-de-oliva-extra-virgem-deleyda-classico-chileno-vidro-500ml-1666064/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/182705/65678c321ef3739680761d71.jpg?v=638368817197970000",
+        "imageId": "182705"
+      },
+      {
+        "name": "Azeite de Oliva Português Extra Virgem Gallo Clássico 250ml",
+        "brand": "Gallo",
+        "link": "https://www.prezunic.com.br/azeite-de-oliva-portugues-extra-virgem-gallo-classico-250ml/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/178091/65429de4a19b03ecba79514a.jpg?v=638344614204570000",
+        "imageId": "178091"
+      },
+      {
+        "name": "Azeite de Oliva Extra Virgem Mondegão 500ml",
+        "brand": "Mondegao",
+        "link": "https://www.prezunic.com.br/azeite-de-oliva-extra-virgem-mondegao-500ml/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/181077/65678ad51ef3739680761701.jpg?v=638368813693270000",
+        "imageId": "181077"
+      },
+      {
+        "name": "Azeite de Oliva Extra Virgem Mykonos 500ml",
+        "brand": "Mykonos",
+        "link": "https://www.prezunic.com.br/azeite-de-oliva-extra-virgem-mykonos-500ml-1666065/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/207627/65e0f14e47e5e59c6b41472e.jpg?v=638448374590200000",
+        "imageId": "207627"
+      }
+    ],
+    "searchUrl": "https://www.prezunic.com.br/Azeite%20de%20Oliva%20Extra%20Virgem%20Gallo%20Cl%C3%A1ssico%E2%80%A8500ml?_q=Azeite%20de%20Oliva%20Extra%20Virgem%20Gallo%20Cl%C3%A1ssico%E2%80%A8500ml&map=ft"
+  },
+  "amaciantes comfort 500ml": {
+    "products": [
+      {
+        "name": "Amaciante Comfort Concentrado Lavanda 500ml",
+        "brand": "Comfort",
+        "link": "https://www.prezunic.com.br/amaciante-comfort-concentrado-lavanda-500ml/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/219673/68ffb73b8d516a2065d317e3.jpg?v=638971858562500000",
+        "imageId": "219673"
+      },
+      {
+        "name": "Amaciante Comfort Concentrado Frescor Intenso 500ml",
+        "brand": "Comfort",
+        "link": "https://www.prezunic.com.br/amaciante-comfort-concentrado-frescor-intenso-500ml-1114833005/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/208474/65f9e328173faa77af38a325.jpg?v=638464722333230000",
+        "imageId": "208474"
+      },
+      {
+        "name": "Amaciante Comfort Concentrado Puro Cuidado 500ml",
+        "brand": "Comfort",
+        "link": "https://www.prezunic.com.br/amaciante-comfort-concentrado-puro-cuidado-500ml/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/182161/65678bb81ef3739680761b25.jpg?v=638368815954900000",
+        "imageId": "182161"
+      },
+      {
+        "name": "Amaciante Comfort Concentrado Brisa Elegante 500ml",
+        "brand": "Comfort",
+        "link": "https://www.prezunic.com.br/amaciante-comfort-concentrado-brisa-elegante-500ml-1660098/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/219671/68ffb73d9fc2192ea9586ba1.jpg?v=638971858561500000",
+        "imageId": "219671"
+      },
+      {
+        "name": "Amaciante Comfort Concentrado Cuidado da Natureza 500ml",
+        "brand": "Comfort",
+        "link": "https://www.prezunic.com.br/amaciante-comfort-concentrado-cuidado-da-natureza-500ml/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/181785/65678b651ef3739680761989.jpg?v=638368815137130000",
+        "imageId": "181785"
+      }
+    ],
+    "searchUrl": "https://www.prezunic.com.br/Amaciantes%20Comfort%20500ml?_q=Amaciantes%20Comfort%20500ml&map=ft"
+  },
+  "cerveja heineken puro malte 473ml": {
+    "products": [
+      {
+        "name": "Cerveja Heineken Puro Malte Lata 473ml",
+        "brand": "Heineken",
+        "link": "https://www.prezunic.com.br/cerveja-heineken-puro-malte-lata-473ml/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/184530/65678db91ef373968076245e.jpg?v=638368821084970000",
+        "imageId": "184530"
+      },
+      {
+        "name": "Cerveja Heineken Puro Malte Lata 269ml",
+        "brand": "Heineken",
+        "link": "https://www.prezunic.com.br/cerveja-heineken-puro-malte-lata-269ml/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/186197/65678f2c1ef3739680762af0.jpg?v=638368824795030000",
+        "imageId": "186197"
+      },
+      {
+        "name": "Cerveja Heineken Puro Malte Lager Zero Álcool Long Neck 330ml",
+        "brand": "Heineken",
+        "link": "https://www.prezunic.com.br/cerveja-heineken-puro-malte-lager-zero-alcool-long-neck-330ml-1755136/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/184442/65678da41ef37396807623fa.jpg?v=638368820890000000",
+        "imageId": "184442"
+      },
+      {
+        "name": "Cerveja Bohemia Puro Malte Lata 473ml",
+        "brand": "Bohemia",
+        "link": "https://www.prezunic.com.br/cerveja-bohemia-puro-malte-lata-473ml-1724029/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/183173/65678c981ef3739680761f20.jpg?v=638368818207000000",
+        "imageId": "183173"
+      },
+      {
+        "name": "Cerveja Tijuca Puro Malte Lata 473ml",
+        "brand": "Tijuca",
+        "link": "https://www.prezunic.com.br/cerveja-tijuca-puro-malte-lata-473ml-1884463/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/222320/693bfa9406689b858f8b2772.jpg?v=639011352588230000",
+        "imageId": "222320"
+      }
+    ],
+    "searchUrl": "https://www.prezunic.com.br/Cerveja%20Heineken%20Puro%20Malte%E2%80%A8473ml?_q=Cerveja%20Heineken%20Puro%20Malte%E2%80%A8473ml&map=ft"
+  },
+  "azeite de oliva gallo andorinha 500ml": {
+    "products": [
+      {
+        "name": "Óleo Composto de Azeite de Oliva Gallo Manjericão 250ml",
+        "brand": "Gallo",
+        "link": "https://www.prezunic.com.br/oleo-composto-de-azeite-de-oliva-gallo-manjericao-250ml/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/217831/68df03e7ee2e6ed061661b94.jpg?v=638950427940870000",
+        "imageId": "217831"
+      },
+      {
+        "name": "Azeite de Oliva Gallo Tipo Único Português Vidro 500ml",
+        "brand": "Gallo",
+        "link": "https://www.prezunic.com.br/azeite-de-oliva-gallo-tipo-unico-portugues-vidro-500ml/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/179098/6567890d1ef3739680760f53.jpg?v=638368809134830000",
+        "imageId": "179098"
+      },
+      {
+        "name": "Azeite de Oliva Português Andorinha Extra Virgem Vidro 500ml",
+        "brand": "Andorinha",
+        "link": "https://www.prezunic.com.br/azeite-de-oliva-portugues-andorinha-extra-virgem-vidro-500ml/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/179298/656789371ef3739680761014.jpg?v=638368809545930000",
+        "imageId": "179298"
+      },
+      {
+        "name": "Azeite de Oliva Tipo Único Português Gallo Vidro 250ml",
+        "brand": "Gallo",
+        "link": "https://www.prezunic.com.br/azeite-de-oliva-tipo-unico-portugues-gallo-vidro-250ml-1326539/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/178239/65429df9a19b03ecba79519d.jpg?v=638344614373630000",
+        "imageId": "178239"
+      }
+    ],
+    "searchUrl": "https://www.prezunic.com.br/Azeite%20de%20Oliva%20Gallo%20Andorinha%E2%80%A8500ml?_q=Azeite%20de%20Oliva%20Gallo%20Andorinha%E2%80%A8500ml&map=ft"
+  },
+  "azeite de oliva gallo 500ml": {
+    "products": [
+      {
+        "name": "Azeite de Oliva Gallo Tipo Único Português Vidro 500ml",
+        "brand": "Gallo",
+        "link": "https://www.prezunic.com.br/azeite-de-oliva-gallo-tipo-unico-portugues-vidro-500ml/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/179098/6567890d1ef3739680760f53.jpg?v=638368809134830000",
+        "imageId": "179098"
+      },
+      {
+        "name": "Azeite de Oliva Olitalia Extra Virgem 500ml",
+        "brand": "Olitalia",
+        "link": "https://www.prezunic.com.br/azeite-de-oliva-olitalia-extra-virgem-500ml/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/179881/656789b41ef3739680761232.jpg?v=638368810797570000",
+        "imageId": "179881"
+      },
+      {
+        "name": "Azeite de Oliva Português Extra Virgem Gallo Clássico 250ml",
+        "brand": "Gallo",
+        "link": "https://www.prezunic.com.br/azeite-de-oliva-portugues-extra-virgem-gallo-classico-250ml/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/178091/65429de4a19b03ecba79514a.jpg?v=638344614204570000",
+        "imageId": "178091"
+      },
+      {
+        "name": "Azeite de Oliva Tipo Único Português Gallo Vidro 250ml",
+        "brand": "Gallo",
+        "link": "https://www.prezunic.com.br/azeite-de-oliva-tipo-unico-portugues-gallo-vidro-250ml-1326539/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/178239/65429df9a19b03ecba79519d.jpg?v=638344614373630000",
+        "imageId": "178239"
+      },
+      {
+        "name": "Óleo Composto de Azeite de Oliva Gallo Manjericão 250ml",
+        "brand": "Gallo",
+        "link": "https://www.prezunic.com.br/oleo-composto-de-azeite-de-oliva-gallo-manjericao-250ml/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/217831/68df03e7ee2e6ed061661b94.jpg?v=638950427940870000",
+        "imageId": "217831"
+      }
+    ],
+    "searchUrl": "https://www.prezunic.com.br/Azeite%20de%20Oliva%20Gallo%E2%80%A8500ml?_q=Azeite%20de%20Oliva%20Gallo%E2%80%A8500ml&map=ft"
+  },
+  "contra filé maturatta": {
+    "products": [
+      {
+        "name": "Contra Filé Maturatta Resfriado",
+        "brand": "Maturatta",
+        "link": "https://www.prezunic.com.br/contra-file-maturatta-resfriado/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/222093/692dc75d01a1426fd89cb718.jpg?v=639002046377730000",
+        "imageId": "222093"
+      },
+      {
+        "name": "Contra Filé Bovino Maturatta Peça",
+        "brand": "Maturatta",
+        "link": "https://www.prezunic.com.br/contra-file-bovino-maturatta-peca/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/181506/65678b281ef373968076185c.jpg?v=638368814515570000",
+        "imageId": "181506"
+      },
+      {
+        "name": "Contra Filé Bovina Maturatta Congelado",
+        "brand": "Maturatta",
+        "link": "https://www.prezunic.com.br/contra-file-bovina-maturatta-congelado/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/209242/66198a149cd5c4b6872ded49.jpg?v=638485465853500000",
+        "imageId": "209242"
+      },
+      {
+        "name": "Contra Filé Bovino Maturatta Steak Resfriado Pedaço",
+        "brand": "Maturatta",
+        "link": "https://www.prezunic.com.br/contra-file-bovino-maturatta-steak-resfriado-pedaco/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/186687/65678f921ef3739680762cd0.jpg?v=638368825815930000",
+        "imageId": "186687"
+      }
+    ],
+    "searchUrl": "https://www.prezunic.com.br/Contra%20Fil%C3%A9%20Maturatta?_q=Contra%20Fil%C3%A9%20Maturatta&map=ft"
+  },
+  "linguiça pernil perdigão": {
+    "products": [
+      {
+        "name": "Linguiça de Pernil Perdigão Congelada",
+        "brand": "Perdigao",
+        "link": "https://www.prezunic.com.br/linguica-de-pernil-perdigao-congelada/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/206432/65c686ed6d89c0f6e5bc6154.jpg?v=638431062858870000",
+        "imageId": "206432"
+      },
+      {
+        "name": "Linguiça Portuguesa Perdigão",
+        "brand": "Perdigao",
+        "link": "https://www.prezunic.com.br/linguica-portuguesa-perdigao/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/206392/65c67ba66d89c0f6e5bc6128.jpg?v=638431033992070000",
+        "imageId": "206392"
+      },
+      {
+        "name": "Linguiça de Frango Perdigão Congelada",
+        "brand": "Perdigao",
+        "link": "https://www.prezunic.com.br/linguica-de-frango-perdigao-congelada/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/222424/694055c1302b4782313587ab.jpg?v=639014207379400000",
+        "imageId": "222424"
+      },
+      {
+        "name": "Linguiça Perdigão Suína Congelada",
+        "brand": "Perdigao",
+        "link": "https://www.prezunic.com.br/linguica-perdigao-suina-congelada/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/206393/65c67c556d89c0f6e5bc6129.jpg?v=638431035738230000",
+        "imageId": "206393"
+      },
+      {
+        "name": "Linguiça Toscana Perdigão Frango/Bacon 600g",
+        "brand": "Perdigao",
+        "link": "https://www.prezunic.com.br/linguica-toscana-perdigao-frango-bacon-600g/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/206387/65c67b1a6d89c0f6e5bc6123.jpg?v=638431032587070000",
+        "imageId": "206387"
+      }
+    ],
+    "searchUrl": "https://www.prezunic.com.br/Lingui%C3%A7a%20Pernil%20Perdig%C3%A3o?_q=Lingui%C3%A7a%20Pernil%20Perdig%C3%A3o&map=ft"
+  },
+  "sorvete nestlé 1,5l": {
+    "products": [
+      {
+        "name": "Sorvete Nestlé Galak 1,5 Litros",
+        "brand": "Nestle",
+        "link": "https://www.prezunic.com.br/sorvete-nestle-galak-1-5-litros/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/188562/656791571ef3739680763420.jpg?v=638368830354230000",
+        "imageId": "188562"
+      },
+      {
+        "name": "Sorvete Nestlé Calda Trufadinho Pote 1,5l",
+        "brand": "Nestle",
+        "link": "https://www.prezunic.com.br/sorvete-nestle-calda-trufadinho-pote-1-5l/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/220998/690dfe138c4f8251b128bc26.jpg?v=638981214923530000",
+        "imageId": "220998"
+      },
+      {
+        "name": "Sorvete Nestlé Calda Morango Pote 1,5l",
+        "brand": "Nestle",
+        "link": "https://www.prezunic.com.br/sorvete-nestle-calda-morango-pote-1-5l/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/220996/690dfe136770ebe718e1b933.jpg?v=638981214922770000",
+        "imageId": "220996"
+      },
+      {
+        "name": "Sorvete Nestlé Calda Brigadeiro Pote 1,5l",
+        "brand": "Nestle",
+        "link": "https://www.prezunic.com.br/sorvete-nestle-calda-brigadeiro-pote-1-5l/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/220997/690dfe126770ebe718e1b932.jpg?v=638981214923230000",
+        "imageId": "220997"
+      },
+      {
+        "name": "Sorvete Nestlé Napolitano 1,5 Litros",
+        "brand": "Nestle",
+        "link": "https://www.prezunic.com.br/sorvete-nestle-napolitano-1-5-litros/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/207186/65d8d233ee6609c40cdc1cbd.jpg?v=638443052041700000",
+        "imageId": "207186"
+      }
+    ],
+    "searchUrl": "https://www.prezunic.com.br/Sorvete%20Nestl%C3%A9%201%2C5L?_q=Sorvete%20Nestl%C3%A9%201%2C5L&map=ft"
+  },
+  "cerveja stella artois latão 473ml": {
+    "products": [
+      {
+        "name": "Cerveja Stella Artois Puro Malte Lata 350ml",
+        "brand": "Stella Artois",
+        "link": "https://www.prezunic.com.br/cerveja-stella-artois-puro-malte-lata-350ml/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/184240/65678d7b1ef3739680762323.jpg?v=638368820467900000",
+        "imageId": "184240"
+      },
+      {
+        "name": "Cerveja Stella Artois Lager Puro Malte Lata 473ml",
+        "brand": "Stella Artois",
+        "link": "https://www.prezunic.com.br/cerveja-stella-artois-lager-puro-malte-lata-473ml-1820813/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/186127/65678f171ef3739680762a94.jpg?v=638368824592630000",
+        "imageId": "186127"
+      },
+      {
+        "name": "Cerveja Stella Artois Puro Malte Long Neck 330ml",
+        "brand": "Stella Artois",
+        "link": "https://www.prezunic.com.br/cerveja-stella-artois-puro-malte-long-neck-330ml/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/206011/659c2fb38e6ab46306463a90.jpg?v=638403314446300000",
+        "imageId": "206011"
+      },
+      {
+        "name": "Cerveja Stella Artois Long Neck Gelada 275ml",
+        "brand": "Stella Artois",
+        "link": "https://www.prezunic.com.br/cerveja-stella-artois-long-neck-gelada-275ml/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/178255/65429df9a19b03ecba7951b4.jpg?v=638344614374200000",
+        "imageId": "178255"
+      },
+      {
+        "name": "Cerveja Itaipava Pilsen Latão 473ml",
+        "brand": "Itaipava",
+        "link": "https://www.prezunic.com.br/cerveja-itaipava-pilsen-latao-473ml/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/221198/6913966d583e6597a885ff8c.jpg?v=638984881741170000",
+        "imageId": "221198"
+      }
+    ],
+    "searchUrl": "https://www.prezunic.com.br/Cerveja%20Stella%20Artois%20Lat%C3%A3o%20473ml?_q=Cerveja%20Stella%20Artois%20Lat%C3%A3o%20473ml&map=ft"
+  },
+  "picanha maturatta": {
+    "products": [
+      {
+        "name": "Picanha Maturatta Pedaço",
+        "brand": "Maturatta",
+        "link": "https://www.prezunic.com.br/picanha-maturatta-pedaco/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/222085/692dc29388e2c82c2002a6ff.jpg?v=639002034133830000",
+        "imageId": "222085"
+      },
+      {
+        "name": "Picanha Bovina Maturatta Peça",
+        "brand": "Maturatta",
+        "link": "https://www.prezunic.com.br/picanha-bovina-maturatta-peca/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/181447/65678b131ef373968076183e.jpg?v=638864798168100000",
+        "imageId": "181447"
+      },
+      {
+        "name": "Picanha Bovina Maturatta Congelada",
+        "brand": "Maturatta",
+        "link": "https://www.prezunic.com.br/picanha-bovina-maturatta-congelada-1681045/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/209235/66198a149cd5c4b6872ded21.jpg?v=638485465853200000",
+        "imageId": "209235"
+      }
+    ],
+    "searchUrl": "https://www.prezunic.com.br/Picanha%20Maturatta?_q=Picanha%20Maturatta&map=ft"
+  },
+  "espumante nacional casa perini brut 750ml": {
+    "products": [
+      {
+        "name": "Espumante Nacional Casa Perini Brut 750ml",
+        "brand": "Casa Perini",
+        "link": "https://www.prezunic.com.br/espumante-nacional-casa-perini-brut-750ml/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/179488/656789601ef37396807610eb.jpg?v=638368809964270000",
+        "imageId": "179488"
+      },
+      {
+        "name": "Espumante Nacional Casa Perini Brut Rosé 750ml",
+        "brand": "Casa Perini",
+        "link": "https://www.prezunic.com.br/espumante-nacional-casa-perini-brut-rose-750ml/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/179531/656789601ef37396807610ed.jpg?v=638368809965630000",
+        "imageId": "179531"
+      },
+      {
+        "name": "Espumante Nacional Casa Perini Brut Blanc de Noir 750ml",
+        "brand": "Casa Perini",
+        "link": "https://www.prezunic.com.br/espumante-nacional-casa-perini-brut-blanc-de-noir-750ml/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/218277/68ee4f991b6202f990baa019.jpg?v=638960452108900000",
+        "imageId": "218277"
+      },
+      {
+        "name": "Espumante Nacional Casa Perini Brut Barriqué Vintage 750ml",
+        "brand": "Casa Perini",
+        "link": "https://www.prezunic.com.br/espumante-nacional-casa-perini-brut-barrique-vintage-750ml/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/218269/68ee4f9994c06cefed01ede5.jpg?v=638960452107800000",
+        "imageId": "218269"
+      },
+      {
+        "name": "Espumante Nacional Casa Perini Prosseco 750ml",
+        "brand": "Casa Perini",
+        "link": "https://www.prezunic.com.br/espumante-nacional-casa-perini-prosseco-750ml-1108579/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/179502/656789601ef37396807610ec.jpg?v=638368809964770000",
+        "imageId": "179502"
+      }
+    ],
+    "searchUrl": "https://www.prezunic.com.br/Espumante%20Nacional%20Casa%20Perini%20Brut%E2%80%A8750ml?_q=Espumante%20Nacional%20Casa%20Perini%20Brut%E2%80%A8750ml&map=ft"
+  },
+  "amaciante comfort 500ml": {
+    "products": [
+      {
+        "name": "Amaciante Comfort Explosão Azul 1.8l",
+        "brand": "Comfort",
+        "link": "https://www.prezunic.com.br/amaciante-comfort-explosao-azul-1-8l/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/190102/656792a21ef3739680763a61.jpg?v=638368833657830000",
+        "imageId": "190102"
+      },
+      {
+        "name": "Amaciante Comfort Concentrado Lavanda 500ml",
+        "brand": "Comfort",
+        "link": "https://www.prezunic.com.br/amaciante-comfort-concentrado-lavanda-500ml/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/219673/68ffb73b8d516a2065d317e3.jpg?v=638971858562500000",
+        "imageId": "219673"
+      },
+      {
+        "name": "Amaciante Comfort Puro Cuidado 1.8l",
+        "brand": "Comfort",
+        "link": "https://www.prezunic.com.br/amaciante-comfort-puro-cuidado-1-8l/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/190087/656792a21ef3739680763a60.jpg?v=638368833657430000",
+        "imageId": "190087"
+      },
+      {
+        "name": "Amaciante Comfort Concentrado Lavanda Refil 900ml",
+        "brand": "Comfort",
+        "link": "https://www.prezunic.com.br/amaciante-comfort-concentrado-lavanda-refil-900ml-1709586005/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/219674/68ffb73c9fc2192ea9586ba0.jpg?v=638971858563300000",
+        "imageId": "219674"
+      },
+      {
+        "name": "Amaciante Comfort Concentrado Frescor Intenso 500ml",
+        "brand": "Comfort",
+        "link": "https://www.prezunic.com.br/amaciante-comfort-concentrado-frescor-intenso-500ml-1114833005/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/208474/65f9e328173faa77af38a325.jpg?v=638464722333230000",
+        "imageId": "208474"
+      }
+    ],
+    "searchUrl": "https://www.prezunic.com.br/AMACIANTE%20COMFORT%20500ml?_q=AMACIANTE%20COMFORT%20500ml&map=ft"
+  },
+  "chocolate em barra milka creme de cacau 100g": {
+    "products": [
+      {
+        "name": "Chocolate em Barra  Milka Creme de Cacau 100g",
+        "brand": "Milka",
+        "link": "https://www.prezunic.com.br/chocolate-em-barra-milka-creme-de-cacau-100g/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/207568/65e0f14e47e5e59c6b414761.jpg?v=638448374587930000",
+        "imageId": "207568"
+      },
+      {
+        "name": "Chocolate em Barra Milka Caramelo 100g",
+        "brand": "Milka",
+        "link": "https://www.prezunic.com.br/chocolate-em-barra-milka-caramelo-100g/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/188920/656791aa1ef37396807635bd.jpg?v=638368831178500000",
+        "imageId": "188920"
+      },
+      {
+        "name": "Chocolate em Barra Milka Extra Cacau 100g",
+        "brand": "Milka",
+        "link": "https://www.prezunic.com.br/chocolate-em-barra-milka-extra-cacau-100g/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/188926/656791aa1ef37396807635bc.jpg?v=638368831178670000",
+        "imageId": "188926"
+      },
+      {
+        "name": "Chocolate em Barra Milka Oreo 100g",
+        "brand": "Milka",
+        "link": "https://www.prezunic.com.br/chocolate-em-barra-milka-oreo-100g/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/188997/656791aa1ef37396807635ba.jpg?v=638368831181400000",
+        "imageId": "188997"
+      },
+      {
+        "name": "Chocolate em Barra Milka Confeti 100g",
+        "brand": "Milka",
+        "link": "https://www.prezunic.com.br/chocolate-em-barra-milka-confeti-100g/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/207563/65e0f14e47e5e59c6b414760.jpg?v=638448374587830000",
+        "imageId": "207563"
+      }
+    ],
+    "searchUrl": "https://www.prezunic.com.br/Chocolate%20em%20Barra%20Milka%20Creme%20de%20Cacau%E2%80%A8100g?_q=Chocolate%20em%20Barra%20Milka%20Creme%20de%20Cacau%E2%80%A8100g&map=ft"
+  },
+  "sabão líquido omo 3l": {
+    "products": [
+      {
+        "name": "Sabão Líquido Omo Lavanda 3l",
+        "brand": "Omo",
+        "link": "https://www.prezunic.com.br/sabao-liquido-omo-lavanda-3l/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/220643/6900ed9b9f3f9cc4a035c333.jpg?v=638972653110070000",
+        "imageId": "220643"
+      },
+      {
+        "name": "Sabão Líquido Omo Lavagem Perfeita 3l",
+        "brand": "Omo",
+        "link": "https://www.prezunic.com.br/sabao-liquido-omo-lavagem-perfeita-3l/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/220649/6900ed9b9f3f9cc4a035c332.jpg?v=638972653112400000",
+        "imageId": "220649"
+      },
+      {
+        "name": "Sabão Líquido Omo Lavanda Refil 900ml",
+        "brand": "Omo",
+        "link": "https://www.prezunic.com.br/sabao-liquido-omo-lavanda-refil-900ml-1743836005/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/220642/6900ed9c9f3f9cc4a035c336.jpg?v=638972653099770000",
+        "imageId": "220642"
+      },
+      {
+        "name": "Sabão Líquido Omo Cuidado Intenso 900ml",
+        "brand": "Omo",
+        "link": "https://www.prezunic.com.br/sabao-liquido-omo-cuidado-intenso-900ml/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/214781/682b6f43772abe539efb2f5c.jpg?v=638832737977070000",
+        "imageId": "214781"
+      },
+      {
+        "name": "Sabão Líquido Omo Puro Cuidado Toque de Aveia 3l",
+        "brand": "Omo",
+        "link": "https://www.prezunic.com.br/sabao-liquido-omo-puro-cuidado-toque-de-aveia-3l-1657094/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/229884/69d3e14decf1024f3b6a984a.jpg?v=639110902577570000",
+        "imageId": "229884"
+      }
+    ],
+    "searchUrl": "https://www.prezunic.com.br/Sab%C3%A3o%20L%C3%ADquido%20Omo%E2%80%A83L?_q=Sab%C3%A3o%20L%C3%ADquido%20Omo%E2%80%A83L&map=ft"
+  },
+  "filé ou filezinho de peito de frango seara 1kg": {
+    "products": [
+      {
+        "name": "Filezinho de Peito de Frango Sassami Seara 1Kg",
+        "brand": "Seara",
+        "link": "https://www.prezunic.com.br/filezinho-de-peito-de-frango-sassami-seara-1kg/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/213226/67dd7ae70e7abc2fe3a20626.jpg?v=638781649744000000",
+        "imageId": "213226"
+      },
+      {
+        "name": "Filezinho de Peito de Frango Sassami Sadia Bandeja 1Kg",
+        "brand": "Sadia",
+        "link": "https://www.prezunic.com.br/filezinho-de-peito-de-frango-sassami-sadia-bandeja-1kg/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/206512/65c69f46c1f4eb875262d658.jpg?v=638431125192100000",
+        "imageId": "206512"
+      },
+      {
+        "name": "Filezinho de Peito de Frango Sadia Bio IQF Congelado 1Kg",
+        "brand": "Sadia",
+        "link": "https://www.prezunic.com.br/filezinho-de-peito-de-frango-sadia-bio-iqf-congelado-1kg/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/206513/65c69f4cc1f4eb875262d659.jpg?v=638431125252070000",
+        "imageId": "206513"
+      },
+      {
+        "name": "Filé de Peito de Frango Seara a Granel Resfriado",
+        "brand": "Seara",
+        "link": "https://www.prezunic.com.br/file-de-peito-de-frango-seara-a-granel-resfriado-1752638/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/222053/692dbdbcc3a3c7550cfdb180.jpg?v=639002021749030000",
+        "imageId": "222053"
+      },
+      {
+        "name": "Filezinho de Peito Temperado Suculentíssimo Seara IQF 1kg",
+        "brand": "Seara",
+        "link": "https://www.prezunic.com.br/filezinho-de-peito-temperado-suculentissimo-seara-iqf-1kg/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/212242/6793bca9637cd8a9f405e30f.jpg?v=638733321397930000",
+        "imageId": "212242"
+      }
+    ],
+    "searchUrl": "https://www.prezunic.com.br/Fil%C3%A9%20ou%20Filezinho%20de%20Peito%20de%20frango%20Seara%E2%80%A81Kg?_q=Fil%C3%A9%20ou%20Filezinho%20de%20Peito%20de%20frango%20Seara%E2%80%A81Kg&map=ft"
+  },
+  "filé de peito de frango seara 1kg": {
+    "products": [
+      {
+        "name": "Filé de Peito de Frango Seara a Granel Resfriado",
+        "brand": "Seara",
+        "link": "https://www.prezunic.com.br/file-de-peito-de-frango-seara-a-granel-resfriado-1752638/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/222053/692dbdbcc3a3c7550cfdb180.jpg?v=639002021749030000",
+        "imageId": "222053"
+      },
+      {
+        "name": "Filé de Peito de Frango Congelado",
+        "brand": "Sem Marca",
+        "link": "https://www.prezunic.com.br/file-de-peito-de-frango-congelado-1477892/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/181508/65678b281ef373968076189c.jpg?v=639075645654870000",
+        "imageId": "181508"
+      },
+      {
+        "name": "Filé de Peito de Frango Sadia Zip 1Kg",
+        "brand": "Sadia",
+        "link": "https://www.prezunic.com.br/file-de-peito-de-frango-sadia-zip-1kg/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/206660/65ccb65f48694cc16be90061.jpg?v=638435116478300000",
+        "imageId": "206660"
+      },
+      {
+        "name": "Filé de Peito de Frango Sadia Bio 1Kg",
+        "brand": "Sadia",
+        "link": "https://www.prezunic.com.br/file-de-peito-de-frango-sadia-bio-1kg-1737750/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/206655/65ccb54348694cc16be9005c.jpg?v=638435113639470000",
+        "imageId": "206655"
+      },
+      {
+        "name": "Filé de Peito de Frango Temperado Resfriado",
+        "brand": "Sem Marca",
+        "link": "https://www.prezunic.com.br/file-de-peito-de-frango-temperado-resfriado/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/177972/65429dd09d89f88ff4704c4c.jpg?v=638344613965130000",
+        "imageId": "177972"
+      }
+    ],
+    "searchUrl": "https://www.prezunic.com.br/Fil%C3%A9%20de%20Peito%20de%20frango%20Seara%E2%80%A81Kg?_q=Fil%C3%A9%20de%20Peito%20de%20frango%20Seara%E2%80%A81Kg&map=ft"
+  },
+  "leite uht  gloria 1l": {
+    "products": [
+      {
+        "name": "Leite UHT Elegê Integral 1l",
+        "brand": "Elege",
+        "link": "https://www.prezunic.com.br/leite-uht-elege-integral-1l-1727062/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/183303/65678cad1ef3739680761f5b.jpg?v=638368818413370000",
+        "imageId": "183303"
+      },
+      {
+        "name": "Leite Uht Piracanjuba Desnatado 1l",
+        "brand": "Piracanjuba",
+        "link": "https://www.prezunic.com.br/leite-uht-piracanjuba-desnatado-1l/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/182624/65678c1e1ef3739680761ce0.jpg?v=638368816984200000",
+        "imageId": "182624"
+      },
+      {
+        "name": "Leite UHT Elegê Semidesnatado 1l",
+        "brand": "Elege",
+        "link": "https://www.prezunic.com.br/leite-uht-elege-semidesnatado-1l-1727063/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/183251/65678cad1ef3739680761f5c.jpg?v=638368818411700000",
+        "imageId": "183251"
+      },
+      {
+        "name": "Leite Uht Parmalat Zym Desnatado Pet 1l",
+        "brand": "Parmalat",
+        "link": "https://www.prezunic.com.br/leite-uht-parmalat-zym-desnatado-pet-1l/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/189640/6567923b1ef3739680763842.jpg?v=638368832621830000",
+        "imageId": "189640"
+      },
+      {
+        "name": "Leite UHT Tirol Integral Caixa 1l",
+        "brand": "Tirol",
+        "link": "https://www.prezunic.com.br/leite-uht-tirol-integral-caixa-1l/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/182764/65678c321ef3739680761d81.jpg?v=638368817200270000",
+        "imageId": "182764"
+      }
+    ],
+    "searchUrl": "https://www.prezunic.com.br/Leite%20UHT%20%E2%80%A8Gloria%201L?_q=Leite%20UHT%20%E2%80%A8Gloria%201L&map=ft"
   }
 }
