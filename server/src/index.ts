@@ -11,12 +11,10 @@ const app = express();
 const PORT = process.env.PORT || 3001;
 const API_KEY = process.env.API_ACCESS_KEY || 'Cencosud_Marketing_2024';
 
-// --- Middlewares de Segurança ---
-app.use(helmet()); // Protege contra vulnerabilidades HTTP comuns
-app.use(cors({ origin: '*' })); // Em produção, substitua pelo domínio do seu front
+app.use(helmet()); 
+app.use(cors({ origin: '*' })); 
 app.use(express.json());
 
-// Validador de Chave de Acesso
 const authMiddleware = (req: express.Request, res: express.Response, next: express.NextFunction) => {
   const userKey = req.headers['x-api-key'];
   if (userKey !== API_KEY) {
@@ -25,18 +23,15 @@ const authMiddleware = (req: express.Request, res: express.Response, next: expre
   next();
 };
 
-// Limitador de requisições para evitar bloqueios de IP na VTEX
 const limiter = rateLimit({
-  windowMs: 15 * 60 * 1000, // 15 minutos
-  max: 250, // Limite global por IP
+  windowMs: 15 * 60 * 1000, 
+  max: 250, 
   standardHeaders: true,
   legacyHeaders: false,
   message: { error: "Muitas requisições vindas deste IP. Tente novamente em 15 minutos." }
 });
 
-/**
- * Rota Principal de Busca
- */
+
 app.get('/search', authMiddleware, limiter, async (req, res) => {
   const query = (req.query.q as string)?.trim();
   const banner = (req.query.banner as string) || 'mercantil';
@@ -52,26 +47,19 @@ app.get('/search', authMiddleware, limiter, async (req, res) => {
   const queryLower = query.toLowerCase();
 
   try {
-    // 1. Tentar Cache por bandeira
     const cached = await getFromCache(banner, queryLower);
     if (cached) {
-      console.log(`🧠 [${banner.toUpperCase()}] Cache Hit: ${queryLower}`);
       return res.json(cached);
     }
 
-    console.log(`🌐 [${banner.toUpperCase()}] Cache Miss: ${queryLower}`);
 
-    // 2. Buscar na API da VTEX
     const vtexProducts = await fetchVtexProducts(query, banner);
     
-    // 3. Matcher (Top 5 melhores resultados)
     const topMatches = findTopMatches(query, vtexProducts);
 
-    // 4. Link de Busca Manual
     const baseUrl = BANNERS_CONFIG[banner];
     const searchUrl = `${baseUrl}/${encodeURIComponent(query)}?_q=${encodeURIComponent(query)}&map=ft`;
 
-    // 5. Resposta com imageId oficial
     const response = {
       products: topMatches.map((p: VtexProduct) => ({
         name: p.productName,
@@ -83,7 +71,6 @@ app.get('/search', authMiddleware, limiter, async (req, res) => {
       searchUrl
     };
 
-    // 6. Salvar Cache
     if (response.products.length > 0) {
       await saveToCache(banner, queryLower, response);
     }
