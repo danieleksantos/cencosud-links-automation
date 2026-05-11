@@ -1,10 +1,8 @@
 import fs from 'fs/promises';
 import path from 'path';
 
-// Define o caminho da pasta de cache
 const CACHE_DIR = path.resolve('cache');
 
-// Garante que a pasta 'cache' exista ao iniciar
 async function ensureCacheDir() {
   try {
     await fs.access(CACHE_DIR);
@@ -22,7 +20,7 @@ export async function getFromCache(banner: string, key: string) {
     const cache = JSON.parse(data);
     return cache[key] || null;
   } catch {
-    return null; // Arquivo não existe ainda
+    return null;
   }
 }
 
@@ -36,7 +34,6 @@ export async function saveToCache(banner: string, key: string, value: any) {
     const data = await fs.readFile(filePath, 'utf-8');
     cache = JSON.parse(data);
   } catch {
-    // Arquivo novo para esta bandeira
   }
 
   cache[key] = value;

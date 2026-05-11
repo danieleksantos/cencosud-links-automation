@@ -1797,5 +1797,45 @@
       }
     ],
     "searchUrl": "https://www.prezunic.com.br/Leite%20UHT%20%E2%80%A8Gloria%201L?_q=Leite%20UHT%20%E2%80%A8Gloria%201L&map=ft"
+  },
+  "ovos branco": {
+    "products": [
+      {
+        "name": "Ovos Brancos Grandes Prezunic com 30 Unidades",
+        "brand": "Prezunic",
+        "link": "https://www.prezunic.com.br/ovos-brancos-grandes-prezunic-com-30-unidades/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/182251/65678bcc1ef3739680761b72.jpg?v=638368816155530000",
+        "imageId": "182251"
+      },
+      {
+        "name": "Ovos Brancos Grandes Mantiqueira c/ 20 Unidades",
+        "brand": "Mantiqueira",
+        "link": "https://www.prezunic.com.br/ovos-brancos-grandes-mantiqueira-c--20-unidades/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/184002/65678d521ef373968076226f.jpg?v=638368820059370000",
+        "imageId": "184002"
+      },
+      {
+        "name": "Ovos Branco Mantiqueira Extra com 10 Unidades",
+        "brand": "Mantiqueira",
+        "link": "https://www.prezunic.com.br/ovos-branco-mantiqueira-extra-com-10-unidades/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/220800/69029b620fefd2653feabbf9.jpg?v=638973753316800000",
+        "imageId": "220800"
+      },
+      {
+        "name": "Ovos Branco Iana Extra Com 10 Unidades",
+        "brand": "Iana",
+        "link": "https://www.prezunic.com.br/ovos-branco-iana-extra-com-10-unidades-1888447/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/231162/69d989c2a66e958a5d487e9e.jpg?v=639114610632030000",
+        "imageId": "231162"
+      },
+      {
+        "name": "Ovos Branco Cuisine&Co Grande com 20 Unidades",
+        "brand": "Cuisine&Co",
+        "link": "https://www.prezunic.com.br/ovos-branco-cuisine-co-grande-com-20-unidades-1887725/p",
+        "imageUrl": "https://prezunic.vteximg.com.br/arquivos/ids/223545/6986424f7b8d2a5ce972f1be.jpg?v=639060032842900000",
+        "imageId": "223545"
+      }
+    ],
+    "searchUrl": "https://www.prezunic.com.br/ovos%20branco?_q=ovos%20branco&map=ft"
   }
 }

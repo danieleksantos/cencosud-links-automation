@@ -765,5 +765,45 @@
       }
     ],
     "searchUrl": "https://www.giga.com.vc/Lasanha%20Seara%20600g?_q=Lasanha%20Seara%20600g&map=ft"
+  },
+  "alcatra": {
+    "products": [
+      {
+        "name": "Alcatra Swift",
+        "brand": "Swift",
+        "link": "https://www.giga.com.vc/alcatra-swift-kg/p",
+        "imageUrl": "https://gigavc.vteximg.com.br/arquivos/ids/168254/690b4825dcf94f415a3be4c5.jpg?v=638979438505330000",
+        "imageId": "168254"
+      },
+      {
+        "name": "Alcatra De Cordeiro Kg",
+        "brand": "Swift",
+        "link": "https://www.giga.com.vc/alcatra-de-cordeiro-swift-kg/p",
+        "imageUrl": "https://gigavc.vteximg.com.br/arquivos/ids/173318/69fb71ae7c042f89f4e25106.jpg?v=639136831263300000",
+        "imageId": "173318"
+      },
+      {
+        "name": "Alcatra Já Pro Forno Swift Kg",
+        "brand": "Swift",
+        "link": "https://www.giga.com.vc/alcatra-pro-forno-swift-kg/p",
+        "imageUrl": "https://gigavc.vteximg.com.br/arquivos/ids/168271/690b4f6eb957cf66a55f1526.png?v=638979457108000000",
+        "imageId": "168271"
+      },
+      {
+        "name": "Bombom Alcatra Swift Kg",
+        "brand": "Swift",
+        "link": "https://www.giga.com.vc/bombom-alcatra-swift-kg-262098/p",
+        "imageUrl": "https://gigavc.vteximg.com.br/arquivos/ids/168248/690b40f9ca6382036cd30f20.jpg?v=638979420166330000",
+        "imageId": "168248"
+      },
+      {
+        "name": "Bife De Alcatra Swift 1kg",
+        "brand": "Swift",
+        "link": "https://www.giga.com.vc/bife-de-alcatra-swift-1kg-286835/p",
+        "imageUrl": "https://gigavc.vteximg.com.br/arquivos/ids/173180/69ea0ffeb2b472fe1c645da8.jpg?v=639125440051400000",
+        "imageId": "173180"
+      }
+    ],
+    "searchUrl": "https://www.giga.com.vc/alcatra?_q=alcatra&map=ft"
   }
 }

@@ -700,5 +700,45 @@
       }
     ],
     "searchUrl": "https://www.gbarbosa.com.br/Batata%20Doce?_q=Batata%20Doce&map=ft"
+  },
+  "coca-cola": {
+    "products": [
+      {
+        "name": "Refrigerante Coca-Cola Pet 200ml",
+        "brand": "Coca-Cola",
+        "link": "https://www.gbarbosa.com.br/refrigerante-coca-cola-pet-200ml/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/212763/655267848d0743e14888f118.jpg?v=638354960727200000",
+        "imageId": "212763"
+      },
+      {
+        "name": "Refrigerante Coca-Cola Pet 600ml",
+        "brand": "Coca-Cola",
+        "link": "https://www.gbarbosa.com.br/refrigerante-coca-cola-pet-600ml/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/207873/655263928d0743e14888ddff.jpg?v=638354950624630000",
+        "imageId": "207873"
+      },
+      {
+        "name": "Refrigerante Coca-Cola Lata 350ml",
+        "brand": "Coca-Cola",
+        "link": "https://www.gbarbosa.com.br/refrigerante-coca-cola-lata-350ml/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/207828/6552637d8d0743e14888ddd5.jpg?v=639105226887700000",
+        "imageId": "207828"
+      },
+      {
+        "name": "Refrigerante Coca-Cola Zero Pet 200ml",
+        "brand": "Coca-Cola",
+        "link": "https://www.gbarbosa.com.br/refrigerante-coca-cola-zero-pet-200ml/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/213588/655268298d0743e14888f46f.jpg?v=638354962378300000",
+        "imageId": "213588"
+      },
+      {
+        "name": "Refrigerante Coca-Cola Pet 1 Litro",
+        "brand": "Coca-Cola",
+        "link": "https://www.gbarbosa.com.br/refrigerante-coca-cola-pet-1-litro/p",
+        "imageUrl": "https://gbarbosa.vteximg.com.br/arquivos/ids/208109/655263bc8d0743e14888deb3.jpg?v=638354951044330000",
+        "imageId": "208109"
+      }
+    ],
+    "searchUrl": "https://www.gbarbosa.com.br/coca-cola?_q=coca-cola&map=ft"
   }
 }

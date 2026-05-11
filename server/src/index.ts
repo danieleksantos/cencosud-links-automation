@@ -8,8 +8,8 @@ import { findTopMatches } from './matcher.js';
 import { getFromCache, saveToCache } from './cacheManager.js';
 
 const app = express();
-const PORT = process.env.PORT || 3001;
-const API_KEY = process.env.API_ACCESS_KEY || 'Cencosud_Marketing_2024';
+const PORT = process.env.PORT;
+const API_KEY = process.env.API_ACCESS_KEY;
 
 app.use(helmet()); 
 app.use(cors({ origin: '*' })); 
@@ -28,7 +28,7 @@ const limiter = rateLimit({
   max: 250, 
   standardHeaders: true,
   legacyHeaders: false,
-  message: { error: "Muitas requisições vindas deste IP. Tente novamente em 15 minutos." }
+  message: { error: "Muitas requisições vindas deste IP. Tente novamente em alguns minutos." }
 });
 
 
@@ -84,7 +84,7 @@ app.get('/search', authMiddleware, limiter, async (req, res) => {
 });
 
 app.get('/status', (req, res) => {
-  res.json({ status: "online", service: "Cencosud Matcher Pro" });
+  res.json({ status: "online", service: "Cencosud Links Automation" });
 });
 
 app.listen(PORT, () => {

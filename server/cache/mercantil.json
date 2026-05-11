@@ -1450,5 +1450,64 @@
       }
     ],
     "searchUrl": "https://www.mercantilatacado.com.br/Farinha%20de%20Trigo%20Sarandi%20Especial?_q=Farinha%20de%20Trigo%20Sarandi%20Especial&map=ft"
+  },
+  "banana": {
+    "products": [
+      {
+        "name": "Banana Prata",
+        "brand": "Sem Marca",
+        "link": "https://www.mercantilatacado.com.br/banana-prata-1111863/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/170261/654a316375d9096810e2c178.jpg?v=638349579277070000",
+        "imageId": "170261"
+      },
+      {
+        "name": "Banana DÁgua",
+        "brand": "Sem Marca",
+        "link": "https://www.mercantilatacado.com.br/banana-dagua-1139247/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/171158/654a321e75d9096810e2c4cc.jpg?v=638349581136400000",
+        "imageId": "171158"
+      },
+      {
+        "name": "Banana da Terra",
+        "brand": "Sem Marca",
+        "link": "https://www.mercantilatacado.com.br/banana-da-terra-1112001/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/192003/67e55c8e9182d4f6554758ce.jpg?v=638786814871130000",
+        "imageId": "192003"
+      },
+      {
+        "name": "Açaí Quy Sorwetto c/ Banana 1.02Kg",
+        "brand": "Quy Sorwetto",
+        "link": "https://www.mercantilatacado.com.br/acai-quy-sorwetto-c--banana-1-02kg-280772/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/173662/654a345575d9096810e2ced3.jpg?v=638349586809630000",
+        "imageId": "173662"
+      },
+      {
+        "name": "Biscoito Integral Nesfit Banana/Aveia/Canela 160g",
+        "brand": "Nesfit",
+        "link": "https://www.mercantilatacado.com.br/biscoito-integral-nesfit-banana-aveia-canela-160g/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/177512/654a37a075d9096810e2ddc7.jpg?v=638349595238530000",
+        "imageId": "177512"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/banana?_q=banana&map=ft"
+  },
+  "abacate": {
+    "products": [
+      {
+        "name": "Abacate",
+        "brand": "Sem Marca",
+        "link": "https://www.mercantilatacado.com.br/abacate-1111867/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/170276/654a316375d9096810e2c179.jpg?v=638349579277670000",
+        "imageId": "170276"
+      },
+      {
+        "name": "Condicionador Óleo de Coco e Abacate Suave Naturals Hidratação e Nutrição Frasco 325ml",
+        "brand": "Suave",
+        "link": "https://www.mercantilatacado.com.br/condicionador-oleo-de-coco-e-abacate-suave-naturals-hidratacao-e-nutricao-frasco-325ml/p",
+        "imageUrl": "https://mercantilatacado.vteximg.com.br/arquivos/ids/176649/654a36e675d9096810e2da76.jpg?v=638349593380030000",
+        "imageId": "176649"
+      }
+    ],
+    "searchUrl": "https://www.mercantilatacado.com.br/abacate?_q=abacate&map=ft"
   }
 }

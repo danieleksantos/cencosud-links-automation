@@ -1,8 +1,5 @@
 import axios from 'axios';
 
-/**
- * Interface oficial baseada na resposta da API de Busca da VTEX
- */
 export interface VtexProduct {
   productName: string;
   brand: string;
@@ -11,14 +8,12 @@ export interface VtexProduct {
     itemId: string;
     images: Array<{
       imageUrl: string;
-      imageId: string; // ID exato da imagem para o teu Marketing
+      imageId: string; 
     }>;
   }>;
 }
 
-/**
- * Configuração das URLs das bandeiras Cencosud
- */
+
 export const BANNERS_CONFIG: Record<string, string> = {
   mercantil: 'https://www.mercantilatacado.com.br',
   prezunic: 'https://www.prezunic.com.br',
@@ -27,9 +22,7 @@ export const BANNERS_CONFIG: Record<string, string> = {
   bretas: 'https://www.bretas.com.br',
 };
 
-/**
- * Procura produtos na VTEX simulando um navegador real
- */
+
 export const fetchVtexProducts = async (term: string, banner: string): Promise<VtexProduct[]> => {
   try {
     const baseUrl = BANNERS_CONFIG[banner] || BANNERS_CONFIG.mercantil;
@@ -40,7 +33,6 @@ export const fetchVtexProducts = async (term: string, banner: string): Promise<V
       headers: {
         'Accept': 'application/json',
         'Content-Type': 'application/json',
-        // User-Agent real para evitar bloqueios de IP
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
       }
     });
